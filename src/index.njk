@@ -1,0 +1,20 @@
+---
+layout: layout.html
+---
+{# pull unique 'season' property from front matter of each post #}
+{# DATA CLEANUP TASK: Name seasons consistenly starting with the year they happened #}
+{% set uniqueSeasons = [] %}
+{% for post in collections.posts %}
+  {% set season = post.data.season %}
+  
+  {% if uniqueSeasons.indexOf(season) == -1 %}
+    {% set uniqueSeasons = uniqueSeasons.concat(season) %}
+  {% endif %}
+{% endfor %}
+
+<p>Browse by season: </p>
+<ul>
+  {% for season in uniqueSeasons %}
+    <li><a href="#">{{ season }}</a></li>
+  {% endfor %}
+</ul>

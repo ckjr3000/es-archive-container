@@ -1,0 +1,33 @@
+---
+layout: layout.njk
+---
+
+<p><b>Performance Title: </b>{{ performance }}</p>
+{% if isPremiere %}
+    <p><i>Premiere</i></p>
+{% endif %}
+{% if isResidency %}
+    <p><i>Residency</i></p>
+{% endif %}
+{% if isCommission %}
+    <p><i>Comission</i></p>
+{% endif %}
+{% if artist %}
+    <p><b>Artist: </b>{{ person }}</p>
+{% endif %}
+{% if ensemble %}
+    <p><b>Ensemble: </b>{{ ensemble }}</p>
+{% endif %}
+{% if work %}
+    <p><b>Work: </b>{{ work }}</p>
+{% endif %}
+{% if work_year %}
+    <p><b>Work Year: </b>{{ work_year }}</p>
+{% endif %}
+{% if country %}
+    <p><b>Country: </b>{{ country }}</p>
+{% endif %}
+{% if venue %}
+    <p><b>Venue: </b>{{ venue }}</p>
+{% endif %}
+<p><b>Season: </b>{{ season }}</p>

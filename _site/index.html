@@ -4,10 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Electric Spring Archive</title>
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
 </head>
 <body>
     <header>
         <h1>Electric Spring Festival Archive</h1>
+        <a href="/search">Search</a>
     </header>
     <main>
         
@@ -81785,6 +81787,17 @@
     
   
 </ul>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+      document.getElementById('search-form').addEventListener('submit', function(event) {
+  
+          const query = document.getElementById('search-query').value.trim();
+  
+          window.location.href = `/search?query=${encodeURIComponent(query)}`;
+      });
+  });
+</script>
 
     </main>
 </body>

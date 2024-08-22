@@ -1,9 +1,9 @@
 ---
 layout: layout.njk
 ---
+
 {# pull unique 'season' property from front matter of each post #}
 {# DATA CLEANUP TASK: Name seasons consistenly starting with the year they happened #}
-
 {% set uniqueSeasons = [] %}
 {% for post in collections.posts %}
   {% set season = post.data.season %}
@@ -25,3 +25,14 @@ layout: layout.njk
     {% endfor %}
   {% endfor %}
 </ul>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+      document.getElementById('search-form').addEventListener('submit', function(event) {
+  
+          const query = document.getElementById('search-query').value.trim();
+  
+          window.location.href = `/search?query=${encodeURIComponent(query)}`;
+      });
+  });
+</script>

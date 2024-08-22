@@ -9,8 +9,5 @@
     "build": "npx eleventy && node generateSearchIndex.js"
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "lunr": "^2.3.9"
-  }
+  "license": "ISC"
 }

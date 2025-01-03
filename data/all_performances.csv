@@ -1,0 +1,764 @@
+performance_id,performance,isPremiere,concert,work,isCommission,isResidency,work_year,ensemble,season,venue,person,country
+4,"Sylvain Pohu - L'identité",NONE,"Percussion and Electronics - Damien Harron",L'identité,0,1,2007,NULL,"GEMDays 2008","St-Paul's Hall",NULL,NULL
+25,"Pierre Alexandre Tremblay - Sandbox#2.1 ",NONE,"Laptop - Ultre","Sandbox#2.1 ",0,0,2008,NULL,"GEMDays 2008",Quayside,NULL,NULL
+5,"Javier Alvarez -Temazcal ",NONE,"Percussion and Electronics - Damien Harron",Temazcal,0,0,1984,NULL,"GEMDays 2008","St-Paul's Hall",NULL,NULL
+6,"Judith Ring - PerForm ",NONE,"Percussion and Electronics - Damien Harron",PerForm,0,0,2007,NULL,"GEMDays 2008","St-Paul's Hall",NULL,NULL
+7,"Geoff Cox - Vibraphone",WORLD,"Percussion and Electronics - Damien Harron","Vibraphone ",0,0,2008,NULL,"GEMDays 2008","St-Paul's Hall",NULL,NULL
+8,"Vinko Globokar - Ombre ",NONE,"Percussion and Electronics - Damien Harron",Ombre,0,0,1989,NULL,"GEMDays 2008","St-Paul's Hall",NULL,NULL
+9,"Michael Clarke - Enmeshed IIb",WORLD,"Percussion and Electronics - Damien Harron","Enmeshed IIb ",0,0,2008,NULL,"GEMDays 2008","St-Paul's Hall",NULL,NULL
+10,"Damien Harron - Taking Sides",NONE,"Percussion and Electronics - Damien Harron","Taking Sides ",0,0,2005,NULL,"GEMDays 2008","St-Paul's Hall",NULL,NULL
+11,"Alexis Makrides - Lavyrinthos",NONE,"Acousmatic - Gilles Gobeil",Lavyrinthos,0,0,2008,NULL,"GEMDays 2008","Drama Studio 1",NULL,NULL
+12,"Monty Adkins - Five Panels no.1 – (for finn)",NONE,"Acousmatic - Gilles Gobeil","Five Panels no.1 – (for finn) ",0,0,2008,NULL,"GEMDays 2008","Drama Studio 1",NULL,NULL
+13,"Gilles Gobeil - Ombres, espaces, silences…",NONE,"Acousmatic - Gilles Gobeil","Ombres, espaces, silences… ",0,0,2005,Crank,"GEMDays 2008","Drama Studio 1","Dave Smith","United Kingdom"
+13,"Gilles Gobeil - Ombres, espaces, silences…",NONE,"Acousmatic - Gilles Gobeil","Ombres, espaces, silences… ",0,0,2005,Crank,"GEMDays 2008","Drama Studio 1","Anton Lukoszevieze","United Kingdom"
+13,"Gilles Gobeil - Ombres, espaces, silences…",NONE,"Acousmatic - Gilles Gobeil","Ombres, espaces, silences… ",0,0,2005,Crank,"GEMDays 2008","Drama Studio 1","Paul Archbold","United Kingdom"
+13,"Gilles Gobeil - Ombres, espaces, silences…",NONE,"Acousmatic - Gilles Gobeil","Ombres, espaces, silences… ",0,0,2005,Crank,"GEMDays 2008","Drama Studio 1","Stewart Worthy","United Kingdom"
+13,"Gilles Gobeil - Ombres, espaces, silences…",NONE,"Acousmatic - Gilles Gobeil","Ombres, espaces, silences… ",0,0,2005,Crank,"GEMDays 2008","Drama Studio 1","Ben Potts","United Kingdom"
+13,"Gilles Gobeil - Ombres, espaces, silences…",NONE,"Acousmatic - Gilles Gobeil","Ombres, espaces, silences… ",0,0,2005,Crank,"GEMDays 2008","Drama Studio 1","Delia Derbyshire","United Kingdom"
+13,"Gilles Gobeil - Ombres, espaces, silences…",NONE,"Acousmatic - Gilles Gobeil","Ombres, espaces, silences… ",0,0,2005,Crank,"GEMDays 2008","Drama Studio 1","Daphne Oram","United Kingdom"
+13,"Gilles Gobeil - Ombres, espaces, silences…",NONE,"Acousmatic - Gilles Gobeil","Ombres, espaces, silences… ",0,0,2005,Crank,"GEMDays 2008","Drama Studio 1","Jason Payne","United Kingdom"
+13,"Gilles Gobeil - Ombres, espaces, silences…",NONE,"Acousmatic - Gilles Gobeil","Ombres, espaces, silences… ",0,0,2005,Crank,"GEMDays 2008","Drama Studio 1","Ambrose Field","United Kingdom"
+13,"Gilles Gobeil - Ombres, espaces, silences…",NONE,"Acousmatic - Gilles Gobeil","Ombres, espaces, silences… ",0,0,2005,Crank,"GEMDays 2008","Drama Studio 1","David Toop","United Kingdom"
+13,"Gilles Gobeil - Ombres, espaces, silences…",NONE,"Acousmatic - Gilles Gobeil","Ombres, espaces, silences… ",0,0,2005,Crank,"GEMDays 2008","Drama Studio 1",Autistici,"United Kingdom"
+13,"Gilles Gobeil - Ombres, espaces, silences…",NONE,"Acousmatic - Gilles Gobeil","Ombres, espaces, silences… ",0,0,2005,Crank,"GEMDays 2008","Drama Studio 1","Philip Thomas","United Kingdom"
+13,"Gilles Gobeil - Ombres, espaces, silences…",NONE,"Acousmatic - Gilles Gobeil","Ombres, espaces, silences… ",0,0,2005,Crank,"GEMDays 2008","Drama Studio 1","Phil Maguire","United Kingdom"
+13,"Gilles Gobeil - Ombres, espaces, silences…",NONE,"Acousmatic - Gilles Gobeil","Ombres, espaces, silences… ",0,0,2005,Crank,"GEMDays 2008","Drama Studio 1","Rose Dodd","United Kingdom"
+13,"Gilles Gobeil - Ombres, espaces, silences…",NONE,"Acousmatic - Gilles Gobeil","Ombres, espaces, silences… ",0,0,2005,Crank,"GEMDays 2008","Drama Studio 1","Trevor Wishart","United Kingdom"
+13,"Gilles Gobeil - Ombres, espaces, silences…",NONE,"Acousmatic - Gilles Gobeil","Ombres, espaces, silences… ",0,0,2005,Crank,"GEMDays 2008","Drama Studio 1","Jonty Harrison","United Kingdom"
+13,"Gilles Gobeil - Ombres, espaces, silences…",NONE,"Acousmatic - Gilles Gobeil","Ombres, espaces, silences… ",0,0,2005,Crank,"GEMDays 2008","Drama Studio 1","Evan Parker","United Kingdom"
+13,"Gilles Gobeil - Ombres, espaces, silences…",NONE,"Acousmatic - Gilles Gobeil","Ombres, espaces, silences… ",0,0,2005,Crank,"GEMDays 2008","Drama Studio 1","Alex Harker","United Kingdom"
+13,"Gilles Gobeil - Ombres, espaces, silences…",NONE,"Acousmatic - Gilles Gobeil","Ombres, espaces, silences… ",0,0,2005,Crank,"GEMDays 2008","Drama Studio 1","Monty Adkins","United Kingdom"
+13,"Gilles Gobeil - Ombres, espaces, silences…",NONE,"Acousmatic - Gilles Gobeil","Ombres, espaces, silences… ",0,0,2005,Crank,"GEMDays 2008","Drama Studio 1","Helena Gough","United Kingdom"
+13,"Gilles Gobeil - Ombres, espaces, silences…",NONE,"Acousmatic - Gilles Gobeil","Ombres, espaces, silences… ",0,0,2005,Crank,"GEMDays 2008","Drama Studio 1","Scott Hewitt","United Kingdom"
+13,"Gilles Gobeil - Ombres, espaces, silences…",NONE,"Acousmatic - Gilles Gobeil","Ombres, espaces, silences… ",0,0,2005,Crank,"GEMDays 2008","Drama Studio 1","Michael Clarke","United Kingdom"
+13,"Gilles Gobeil - Ombres, espaces, silences…",NONE,"Acousmatic - Gilles Gobeil","Ombres, espaces, silences… ",0,0,2005,Crank,"GEMDays 2008","Drama Studio 1","Geoff Cox","United Kingdom"
+14,"Gilles Gobeil - Entre les deux rives du printemps",NONE,"Acousmatic - Gilles Gobeil","Entre les deux rives du printemps ",0,0,2006,Crank,"GEMDays 2008","Drama Studio 1","Dave Smith","United Kingdom"
+14,"Gilles Gobeil - Entre les deux rives du printemps",NONE,"Acousmatic - Gilles Gobeil","Entre les deux rives du printemps ",0,0,2006,Crank,"GEMDays 2008","Drama Studio 1","Anton Lukoszevieze","United Kingdom"
+14,"Gilles Gobeil - Entre les deux rives du printemps",NONE,"Acousmatic - Gilles Gobeil","Entre les deux rives du printemps ",0,0,2006,Crank,"GEMDays 2008","Drama Studio 1","Paul Archbold","United Kingdom"
+14,"Gilles Gobeil - Entre les deux rives du printemps",NONE,"Acousmatic - Gilles Gobeil","Entre les deux rives du printemps ",0,0,2006,Crank,"GEMDays 2008","Drama Studio 1","Stewart Worthy","United Kingdom"
+14,"Gilles Gobeil - Entre les deux rives du printemps",NONE,"Acousmatic - Gilles Gobeil","Entre les deux rives du printemps ",0,0,2006,Crank,"GEMDays 2008","Drama Studio 1","Ben Potts","United Kingdom"
+14,"Gilles Gobeil - Entre les deux rives du printemps",NONE,"Acousmatic - Gilles Gobeil","Entre les deux rives du printemps ",0,0,2006,Crank,"GEMDays 2008","Drama Studio 1","Delia Derbyshire","United Kingdom"
+14,"Gilles Gobeil - Entre les deux rives du printemps",NONE,"Acousmatic - Gilles Gobeil","Entre les deux rives du printemps ",0,0,2006,Crank,"GEMDays 2008","Drama Studio 1","Daphne Oram","United Kingdom"
+14,"Gilles Gobeil - Entre les deux rives du printemps",NONE,"Acousmatic - Gilles Gobeil","Entre les deux rives du printemps ",0,0,2006,Crank,"GEMDays 2008","Drama Studio 1","Jason Payne","United Kingdom"
+14,"Gilles Gobeil - Entre les deux rives du printemps",NONE,"Acousmatic - Gilles Gobeil","Entre les deux rives du printemps ",0,0,2006,Crank,"GEMDays 2008","Drama Studio 1","Ambrose Field","United Kingdom"
+14,"Gilles Gobeil - Entre les deux rives du printemps",NONE,"Acousmatic - Gilles Gobeil","Entre les deux rives du printemps ",0,0,2006,Crank,"GEMDays 2008","Drama Studio 1","David Toop","United Kingdom"
+14,"Gilles Gobeil - Entre les deux rives du printemps",NONE,"Acousmatic - Gilles Gobeil","Entre les deux rives du printemps ",0,0,2006,Crank,"GEMDays 2008","Drama Studio 1",Autistici,"United Kingdom"
+14,"Gilles Gobeil - Entre les deux rives du printemps",NONE,"Acousmatic - Gilles Gobeil","Entre les deux rives du printemps ",0,0,2006,Crank,"GEMDays 2008","Drama Studio 1","Philip Thomas","United Kingdom"
+14,"Gilles Gobeil - Entre les deux rives du printemps",NONE,"Acousmatic - Gilles Gobeil","Entre les deux rives du printemps ",0,0,2006,Crank,"GEMDays 2008","Drama Studio 1","Phil Maguire","United Kingdom"
+14,"Gilles Gobeil - Entre les deux rives du printemps",NONE,"Acousmatic - Gilles Gobeil","Entre les deux rives du printemps ",0,0,2006,Crank,"GEMDays 2008","Drama Studio 1","Rose Dodd","United Kingdom"
+14,"Gilles Gobeil - Entre les deux rives du printemps",NONE,"Acousmatic - Gilles Gobeil","Entre les deux rives du printemps ",0,0,2006,Crank,"GEMDays 2008","Drama Studio 1","Trevor Wishart","United Kingdom"
+14,"Gilles Gobeil - Entre les deux rives du printemps",NONE,"Acousmatic - Gilles Gobeil","Entre les deux rives du printemps ",0,0,2006,Crank,"GEMDays 2008","Drama Studio 1","Jonty Harrison","United Kingdom"
+14,"Gilles Gobeil - Entre les deux rives du printemps",NONE,"Acousmatic - Gilles Gobeil","Entre les deux rives du printemps ",0,0,2006,Crank,"GEMDays 2008","Drama Studio 1","Evan Parker","United Kingdom"
+14,"Gilles Gobeil - Entre les deux rives du printemps",NONE,"Acousmatic - Gilles Gobeil","Entre les deux rives du printemps ",0,0,2006,Crank,"GEMDays 2008","Drama Studio 1","Alex Harker","United Kingdom"
+14,"Gilles Gobeil - Entre les deux rives du printemps",NONE,"Acousmatic - Gilles Gobeil","Entre les deux rives du printemps ",0,0,2006,Crank,"GEMDays 2008","Drama Studio 1","Monty Adkins","United Kingdom"
+14,"Gilles Gobeil - Entre les deux rives du printemps",NONE,"Acousmatic - Gilles Gobeil","Entre les deux rives du printemps ",0,0,2006,Crank,"GEMDays 2008","Drama Studio 1","Helena Gough","United Kingdom"
+14,"Gilles Gobeil - Entre les deux rives du printemps",NONE,"Acousmatic - Gilles Gobeil","Entre les deux rives du printemps ",0,0,2006,Crank,"GEMDays 2008","Drama Studio 1","Scott Hewitt","United Kingdom"
+14,"Gilles Gobeil - Entre les deux rives du printemps",NONE,"Acousmatic - Gilles Gobeil","Entre les deux rives du printemps ",0,0,2006,Crank,"GEMDays 2008","Drama Studio 1","Michael Clarke","United Kingdom"
+14,"Gilles Gobeil - Entre les deux rives du printemps",NONE,"Acousmatic - Gilles Gobeil","Entre les deux rives du printemps ",0,0,2006,Crank,"GEMDays 2008","Drama Studio 1","Geoff Cox","United Kingdom"
+15,"Gilles Gobeil - Le miroir triste",NONE,"Acousmatic - Gilles Gobeil","Le miroir triste ",0,0,2007,Crank,"GEMDays 2008","Drama Studio 1","Dave Smith","United Kingdom"
+15,"Gilles Gobeil - Le miroir triste",NONE,"Acousmatic - Gilles Gobeil","Le miroir triste ",0,0,2007,Crank,"GEMDays 2008","Drama Studio 1","Anton Lukoszevieze","United Kingdom"
+15,"Gilles Gobeil - Le miroir triste",NONE,"Acousmatic - Gilles Gobeil","Le miroir triste ",0,0,2007,Crank,"GEMDays 2008","Drama Studio 1","Paul Archbold","United Kingdom"
+15,"Gilles Gobeil - Le miroir triste",NONE,"Acousmatic - Gilles Gobeil","Le miroir triste ",0,0,2007,Crank,"GEMDays 2008","Drama Studio 1","Stewart Worthy","United Kingdom"
+15,"Gilles Gobeil - Le miroir triste",NONE,"Acousmatic - Gilles Gobeil","Le miroir triste ",0,0,2007,Crank,"GEMDays 2008","Drama Studio 1","Ben Potts","United Kingdom"
+15,"Gilles Gobeil - Le miroir triste",NONE,"Acousmatic - Gilles Gobeil","Le miroir triste ",0,0,2007,Crank,"GEMDays 2008","Drama Studio 1","Delia Derbyshire","United Kingdom"
+15,"Gilles Gobeil - Le miroir triste",NONE,"Acousmatic - Gilles Gobeil","Le miroir triste ",0,0,2007,Crank,"GEMDays 2008","Drama Studio 1","Daphne Oram","United Kingdom"
+15,"Gilles Gobeil - Le miroir triste",NONE,"Acousmatic - Gilles Gobeil","Le miroir triste ",0,0,2007,Crank,"GEMDays 2008","Drama Studio 1","Jason Payne","United Kingdom"
+15,"Gilles Gobeil - Le miroir triste",NONE,"Acousmatic - Gilles Gobeil","Le miroir triste ",0,0,2007,Crank,"GEMDays 2008","Drama Studio 1","Ambrose Field","United Kingdom"
+15,"Gilles Gobeil - Le miroir triste",NONE,"Acousmatic - Gilles Gobeil","Le miroir triste ",0,0,2007,Crank,"GEMDays 2008","Drama Studio 1","David Toop","United Kingdom"
+15,"Gilles Gobeil - Le miroir triste",NONE,"Acousmatic - Gilles Gobeil","Le miroir triste ",0,0,2007,Crank,"GEMDays 2008","Drama Studio 1",Autistici,"United Kingdom"
+15,"Gilles Gobeil - Le miroir triste",NONE,"Acousmatic - Gilles Gobeil","Le miroir triste ",0,0,2007,Crank,"GEMDays 2008","Drama Studio 1","Philip Thomas","United Kingdom"
+15,"Gilles Gobeil - Le miroir triste",NONE,"Acousmatic - Gilles Gobeil","Le miroir triste ",0,0,2007,Crank,"GEMDays 2008","Drama Studio 1","Phil Maguire","United Kingdom"
+15,"Gilles Gobeil - Le miroir triste",NONE,"Acousmatic - Gilles Gobeil","Le miroir triste ",0,0,2007,Crank,"GEMDays 2008","Drama Studio 1","Rose Dodd","United Kingdom"
+15,"Gilles Gobeil - Le miroir triste",NONE,"Acousmatic - Gilles Gobeil","Le miroir triste ",0,0,2007,Crank,"GEMDays 2008","Drama Studio 1","Trevor Wishart","United Kingdom"
+15,"Gilles Gobeil - Le miroir triste",NONE,"Acousmatic - Gilles Gobeil","Le miroir triste ",0,0,2007,Crank,"GEMDays 2008","Drama Studio 1","Jonty Harrison","United Kingdom"
+15,"Gilles Gobeil - Le miroir triste",NONE,"Acousmatic - Gilles Gobeil","Le miroir triste ",0,0,2007,Crank,"GEMDays 2008","Drama Studio 1","Evan Parker","United Kingdom"
+15,"Gilles Gobeil - Le miroir triste",NONE,"Acousmatic - Gilles Gobeil","Le miroir triste ",0,0,2007,Crank,"GEMDays 2008","Drama Studio 1","Alex Harker","United Kingdom"
+15,"Gilles Gobeil - Le miroir triste",NONE,"Acousmatic - Gilles Gobeil","Le miroir triste ",0,0,2007,Crank,"GEMDays 2008","Drama Studio 1","Monty Adkins","United Kingdom"
+15,"Gilles Gobeil - Le miroir triste",NONE,"Acousmatic - Gilles Gobeil","Le miroir triste ",0,0,2007,Crank,"GEMDays 2008","Drama Studio 1","Helena Gough","United Kingdom"
+15,"Gilles Gobeil - Le miroir triste",NONE,"Acousmatic - Gilles Gobeil","Le miroir triste ",0,0,2007,Crank,"GEMDays 2008","Drama Studio 1","Scott Hewitt","United Kingdom"
+15,"Gilles Gobeil - Le miroir triste",NONE,"Acousmatic - Gilles Gobeil","Le miroir triste ",0,0,2007,Crank,"GEMDays 2008","Drama Studio 1","Michael Clarke","United Kingdom"
+15,"Gilles Gobeil - Le miroir triste",NONE,"Acousmatic - Gilles Gobeil","Le miroir triste ",0,0,2007,Crank,"GEMDays 2008","Drama Studio 1","Geoff Cox","United Kingdom"
+33,"Bret Battey - Luna Series: II - Lacus Temporis ",NONE,"VideoMusic - Bret Battey","Luna Series: II - Lacus Temporis",0,0,2008,FUSIL,"GEMDays 2008","Drama Studio 1",NULL,NULL
+32,"Bret Battey - Luna Series: I - Mercurius ",NONE,"VideoMusic - Bret Battey","Luna Series: I - Mercurius ",0,0,2007,FUSIL,"GEMDays 2008","Drama Studio 1",NULL,NULL
+31,"Bret Battey	- Autarkeia Aggregatum ",NONE,"VideoMusic - Bret Battey","Autarkeia Aggregatum ",0,0,2005,FUSIL,"GEMDays 2008","Drama Studio 1",NULL,NULL
+30,"Bret Battey - Writing on the Surface ",NONE,"VideoMusic - Bret Battey","Writing on the Surface ",0,0,2000,FUSIL,"GEMDays 2008","Drama Studio 1",NULL,NULL
+29,"Bret Battey - On the Presence of Water ",NONE,"VideoMusic - Bret Battey","On the Presence of Water ",0,0,1997,FUSIL,"GEMDays 2008","Drama Studio 1",NULL,NULL
+28,"Bret Battey - cMatrix10",NONE,"VideoMusic - Bret Battey","cMatrix10 ",0,0,2004,FUSIL,"GEMDays 2008","Drama Studio 1",NULL,NULL
+41,"Scott McLaughlin - Nano (Vertical)",NONE,"Expanded Sounds - Casserley + Morgan","Nano (Vertical)",0,0,2009,NULL,"GEMDays 2009","Phipps Concert Hall",NULL,NULL
+44,"Geoff Cox - Exorcise",NONE,"Acousmatic Visions - Monty Adkins",Exorcise,0,0,2009,NULL,"GEMDays 2009","Phipps Concert Hall",NULL,NULL
+45,"Monty Adkins - Five Panels",NONE,"Acousmatic Visions - Monty Adkins","Five Panels ",0,0,2008,NULL,"GEMDays 2009","Phipps Concert Hall",NULL,NULL
+55,"Monty Adkins - Suspended Edges",NONE,"Multimedia - Ricardo Climent","Suspended Edges",0,0,2010,NULL,"GEMDays 2011","Phipps Concert Hall",NULL,NULL
+91,"Joseph Hyde - Zeotrope",NONE,"Sight Sound Surrounded - Joseph Hyde",Zoetrope,0,0,1999,NULL,"GEMDays 2009","Phipps Concert Hall",NULL,NULL
+92,"Joseph Hyde - subliminalTV",NONE,"Sight Sound Surrounded - Joseph Hyde",subliminalTV,0,0,2006,NULL,"GEMDays 2009","Phipps Concert Hall",NULL,NULL
+93,"Joseph Hyde - Nekyia",NONE,"Sight Sound Surrounded - Joseph Hyde",Nekyia,0,0,2008,NULL,"GEMDays 2009","Phipps Concert Hall",NULL,NULL
+94,"Joseph Hyde - End Transmission",NONE,"Sight Sound Surrounded - Joseph Hyde","End Transmission",0,0,2009,NULL,"GEMDays 2009","Phipps Concert Hall",NULL,NULL
+47,"Derrick Archer - kHsCl25",NONE,"Derrick Archer: sound installation - kHsCl25",kHsCl25,0,0,2009,NULL,"GEMDays 2009",Atrium,NULL,NULL
+48,"Dominic Thibault - De velours et d'acier",NONE,"Acousmatic - Pierre Alexandre Tremblay","De velours et d'acier",0,0,2009,NULL,"GEMDays 2011","Phipps Concert Hall",NULL,NULL
+49,"Pierre Alexandre Tremblay - Reflets de notre société crépusculaire",NONE,"Acousmatic - Pierre Alexandre Tremblay","Reflets de notre société crépusculaire",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Dave Smith","United Kingdom"
+49,"Pierre Alexandre Tremblay - Reflets de notre société crépusculaire",NONE,"Acousmatic - Pierre Alexandre Tremblay","Reflets de notre société crépusculaire",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Anton Lukoszevieze","United Kingdom"
+49,"Pierre Alexandre Tremblay - Reflets de notre société crépusculaire",NONE,"Acousmatic - Pierre Alexandre Tremblay","Reflets de notre société crépusculaire",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Paul Archbold","United Kingdom"
+49,"Pierre Alexandre Tremblay - Reflets de notre société crépusculaire",NONE,"Acousmatic - Pierre Alexandre Tremblay","Reflets de notre société crépusculaire",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Stewart Worthy","United Kingdom"
+49,"Pierre Alexandre Tremblay - Reflets de notre société crépusculaire",NONE,"Acousmatic - Pierre Alexandre Tremblay","Reflets de notre société crépusculaire",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Ben Potts","United Kingdom"
+49,"Pierre Alexandre Tremblay - Reflets de notre société crépusculaire",NONE,"Acousmatic - Pierre Alexandre Tremblay","Reflets de notre société crépusculaire",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Delia Derbyshire","United Kingdom"
+49,"Pierre Alexandre Tremblay - Reflets de notre société crépusculaire",NONE,"Acousmatic - Pierre Alexandre Tremblay","Reflets de notre société crépusculaire",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Daphne Oram","United Kingdom"
+49,"Pierre Alexandre Tremblay - Reflets de notre société crépusculaire",NONE,"Acousmatic - Pierre Alexandre Tremblay","Reflets de notre société crépusculaire",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Jason Payne","United Kingdom"
+49,"Pierre Alexandre Tremblay - Reflets de notre société crépusculaire",NONE,"Acousmatic - Pierre Alexandre Tremblay","Reflets de notre société crépusculaire",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Ambrose Field","United Kingdom"
+49,"Pierre Alexandre Tremblay - Reflets de notre société crépusculaire",NONE,"Acousmatic - Pierre Alexandre Tremblay","Reflets de notre société crépusculaire",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","David Toop","United Kingdom"
+49,"Pierre Alexandre Tremblay - Reflets de notre société crépusculaire",NONE,"Acousmatic - Pierre Alexandre Tremblay","Reflets de notre société crépusculaire",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall",Autistici,"United Kingdom"
+49,"Pierre Alexandre Tremblay - Reflets de notre société crépusculaire",NONE,"Acousmatic - Pierre Alexandre Tremblay","Reflets de notre société crépusculaire",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Philip Thomas","United Kingdom"
+49,"Pierre Alexandre Tremblay - Reflets de notre société crépusculaire",NONE,"Acousmatic - Pierre Alexandre Tremblay","Reflets de notre société crépusculaire",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Phil Maguire","United Kingdom"
+49,"Pierre Alexandre Tremblay - Reflets de notre société crépusculaire",NONE,"Acousmatic - Pierre Alexandre Tremblay","Reflets de notre société crépusculaire",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Rose Dodd","United Kingdom"
+49,"Pierre Alexandre Tremblay - Reflets de notre société crépusculaire",NONE,"Acousmatic - Pierre Alexandre Tremblay","Reflets de notre société crépusculaire",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Trevor Wishart","United Kingdom"
+49,"Pierre Alexandre Tremblay - Reflets de notre société crépusculaire",NONE,"Acousmatic - Pierre Alexandre Tremblay","Reflets de notre société crépusculaire",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Jonty Harrison","United Kingdom"
+49,"Pierre Alexandre Tremblay - Reflets de notre société crépusculaire",NONE,"Acousmatic - Pierre Alexandre Tremblay","Reflets de notre société crépusculaire",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Evan Parker","United Kingdom"
+49,"Pierre Alexandre Tremblay - Reflets de notre société crépusculaire",NONE,"Acousmatic - Pierre Alexandre Tremblay","Reflets de notre société crépusculaire",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Alex Harker","United Kingdom"
+49,"Pierre Alexandre Tremblay - Reflets de notre société crépusculaire",NONE,"Acousmatic - Pierre Alexandre Tremblay","Reflets de notre société crépusculaire",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Monty Adkins","United Kingdom"
+49,"Pierre Alexandre Tremblay - Reflets de notre société crépusculaire",NONE,"Acousmatic - Pierre Alexandre Tremblay","Reflets de notre société crépusculaire",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Helena Gough","United Kingdom"
+49,"Pierre Alexandre Tremblay - Reflets de notre société crépusculaire",NONE,"Acousmatic - Pierre Alexandre Tremblay","Reflets de notre société crépusculaire",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Scott Hewitt","United Kingdom"
+49,"Pierre Alexandre Tremblay - Reflets de notre société crépusculaire",NONE,"Acousmatic - Pierre Alexandre Tremblay","Reflets de notre société crépusculaire",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Michael Clarke","United Kingdom"
+49,"Pierre Alexandre Tremblay - Reflets de notre société crépusculaire",NONE,"Acousmatic - Pierre Alexandre Tremblay","Reflets de notre société crépusculaire",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Geoff Cox","United Kingdom"
+50,"Pierre Alexandre Tremblay - Ces énigmes lumineuses",NONE,"Acousmatic - Pierre Alexandre Tremblay","Ces énigmes lumineuses",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Dave Smith","United Kingdom"
+50,"Pierre Alexandre Tremblay - Ces énigmes lumineuses",NONE,"Acousmatic - Pierre Alexandre Tremblay","Ces énigmes lumineuses",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Anton Lukoszevieze","United Kingdom"
+50,"Pierre Alexandre Tremblay - Ces énigmes lumineuses",NONE,"Acousmatic - Pierre Alexandre Tremblay","Ces énigmes lumineuses",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Paul Archbold","United Kingdom"
+50,"Pierre Alexandre Tremblay - Ces énigmes lumineuses",NONE,"Acousmatic - Pierre Alexandre Tremblay","Ces énigmes lumineuses",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Stewart Worthy","United Kingdom"
+50,"Pierre Alexandre Tremblay - Ces énigmes lumineuses",NONE,"Acousmatic - Pierre Alexandre Tremblay","Ces énigmes lumineuses",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Ben Potts","United Kingdom"
+50,"Pierre Alexandre Tremblay - Ces énigmes lumineuses",NONE,"Acousmatic - Pierre Alexandre Tremblay","Ces énigmes lumineuses",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Delia Derbyshire","United Kingdom"
+50,"Pierre Alexandre Tremblay - Ces énigmes lumineuses",NONE,"Acousmatic - Pierre Alexandre Tremblay","Ces énigmes lumineuses",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Daphne Oram","United Kingdom"
+50,"Pierre Alexandre Tremblay - Ces énigmes lumineuses",NONE,"Acousmatic - Pierre Alexandre Tremblay","Ces énigmes lumineuses",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Jason Payne","United Kingdom"
+50,"Pierre Alexandre Tremblay - Ces énigmes lumineuses",NONE,"Acousmatic - Pierre Alexandre Tremblay","Ces énigmes lumineuses",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Ambrose Field","United Kingdom"
+50,"Pierre Alexandre Tremblay - Ces énigmes lumineuses",NONE,"Acousmatic - Pierre Alexandre Tremblay","Ces énigmes lumineuses",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","David Toop","United Kingdom"
+50,"Pierre Alexandre Tremblay - Ces énigmes lumineuses",NONE,"Acousmatic - Pierre Alexandre Tremblay","Ces énigmes lumineuses",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall",Autistici,"United Kingdom"
+50,"Pierre Alexandre Tremblay - Ces énigmes lumineuses",NONE,"Acousmatic - Pierre Alexandre Tremblay","Ces énigmes lumineuses",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Philip Thomas","United Kingdom"
+50,"Pierre Alexandre Tremblay - Ces énigmes lumineuses",NONE,"Acousmatic - Pierre Alexandre Tremblay","Ces énigmes lumineuses",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Phil Maguire","United Kingdom"
+50,"Pierre Alexandre Tremblay - Ces énigmes lumineuses",NONE,"Acousmatic - Pierre Alexandre Tremblay","Ces énigmes lumineuses",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Rose Dodd","United Kingdom"
+50,"Pierre Alexandre Tremblay - Ces énigmes lumineuses",NONE,"Acousmatic - Pierre Alexandre Tremblay","Ces énigmes lumineuses",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Trevor Wishart","United Kingdom"
+50,"Pierre Alexandre Tremblay - Ces énigmes lumineuses",NONE,"Acousmatic - Pierre Alexandre Tremblay","Ces énigmes lumineuses",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Jonty Harrison","United Kingdom"
+50,"Pierre Alexandre Tremblay - Ces énigmes lumineuses",NONE,"Acousmatic - Pierre Alexandre Tremblay","Ces énigmes lumineuses",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Evan Parker","United Kingdom"
+50,"Pierre Alexandre Tremblay - Ces énigmes lumineuses",NONE,"Acousmatic - Pierre Alexandre Tremblay","Ces énigmes lumineuses",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Alex Harker","United Kingdom"
+50,"Pierre Alexandre Tremblay - Ces énigmes lumineuses",NONE,"Acousmatic - Pierre Alexandre Tremblay","Ces énigmes lumineuses",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Monty Adkins","United Kingdom"
+50,"Pierre Alexandre Tremblay - Ces énigmes lumineuses",NONE,"Acousmatic - Pierre Alexandre Tremblay","Ces énigmes lumineuses",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Helena Gough","United Kingdom"
+50,"Pierre Alexandre Tremblay - Ces énigmes lumineuses",NONE,"Acousmatic - Pierre Alexandre Tremblay","Ces énigmes lumineuses",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Scott Hewitt","United Kingdom"
+50,"Pierre Alexandre Tremblay - Ces énigmes lumineuses",NONE,"Acousmatic - Pierre Alexandre Tremblay","Ces énigmes lumineuses",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Michael Clarke","United Kingdom"
+50,"Pierre Alexandre Tremblay - Ces énigmes lumineuses",NONE,"Acousmatic - Pierre Alexandre Tremblay","Ces énigmes lumineuses",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Geoff Cox","United Kingdom"
+51,"Pierre Alexandre Tremblay - For Ever Now Soon An End",NONE,"Acousmatic - Pierre Alexandre Tremblay","For Ever Now Soon An End",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Dave Smith","United Kingdom"
+51,"Pierre Alexandre Tremblay - For Ever Now Soon An End",NONE,"Acousmatic - Pierre Alexandre Tremblay","For Ever Now Soon An End",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Anton Lukoszevieze","United Kingdom"
+51,"Pierre Alexandre Tremblay - For Ever Now Soon An End",NONE,"Acousmatic - Pierre Alexandre Tremblay","For Ever Now Soon An End",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Paul Archbold","United Kingdom"
+51,"Pierre Alexandre Tremblay - For Ever Now Soon An End",NONE,"Acousmatic - Pierre Alexandre Tremblay","For Ever Now Soon An End",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Stewart Worthy","United Kingdom"
+51,"Pierre Alexandre Tremblay - For Ever Now Soon An End",NONE,"Acousmatic - Pierre Alexandre Tremblay","For Ever Now Soon An End",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Ben Potts","United Kingdom"
+51,"Pierre Alexandre Tremblay - For Ever Now Soon An End",NONE,"Acousmatic - Pierre Alexandre Tremblay","For Ever Now Soon An End",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Delia Derbyshire","United Kingdom"
+51,"Pierre Alexandre Tremblay - For Ever Now Soon An End",NONE,"Acousmatic - Pierre Alexandre Tremblay","For Ever Now Soon An End",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Daphne Oram","United Kingdom"
+51,"Pierre Alexandre Tremblay - For Ever Now Soon An End",NONE,"Acousmatic - Pierre Alexandre Tremblay","For Ever Now Soon An End",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Jason Payne","United Kingdom"
+51,"Pierre Alexandre Tremblay - For Ever Now Soon An End",NONE,"Acousmatic - Pierre Alexandre Tremblay","For Ever Now Soon An End",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Ambrose Field","United Kingdom"
+51,"Pierre Alexandre Tremblay - For Ever Now Soon An End",NONE,"Acousmatic - Pierre Alexandre Tremblay","For Ever Now Soon An End",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","David Toop","United Kingdom"
+51,"Pierre Alexandre Tremblay - For Ever Now Soon An End",NONE,"Acousmatic - Pierre Alexandre Tremblay","For Ever Now Soon An End",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall",Autistici,"United Kingdom"
+51,"Pierre Alexandre Tremblay - For Ever Now Soon An End",NONE,"Acousmatic - Pierre Alexandre Tremblay","For Ever Now Soon An End",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Philip Thomas","United Kingdom"
+51,"Pierre Alexandre Tremblay - For Ever Now Soon An End",NONE,"Acousmatic - Pierre Alexandre Tremblay","For Ever Now Soon An End",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Phil Maguire","United Kingdom"
+51,"Pierre Alexandre Tremblay - For Ever Now Soon An End",NONE,"Acousmatic - Pierre Alexandre Tremblay","For Ever Now Soon An End",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Rose Dodd","United Kingdom"
+51,"Pierre Alexandre Tremblay - For Ever Now Soon An End",NONE,"Acousmatic - Pierre Alexandre Tremblay","For Ever Now Soon An End",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Trevor Wishart","United Kingdom"
+51,"Pierre Alexandre Tremblay - For Ever Now Soon An End",NONE,"Acousmatic - Pierre Alexandre Tremblay","For Ever Now Soon An End",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Jonty Harrison","United Kingdom"
+51,"Pierre Alexandre Tremblay - For Ever Now Soon An End",NONE,"Acousmatic - Pierre Alexandre Tremblay","For Ever Now Soon An End",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Evan Parker","United Kingdom"
+51,"Pierre Alexandre Tremblay - For Ever Now Soon An End",NONE,"Acousmatic - Pierre Alexandre Tremblay","For Ever Now Soon An End",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Alex Harker","United Kingdom"
+51,"Pierre Alexandre Tremblay - For Ever Now Soon An End",NONE,"Acousmatic - Pierre Alexandre Tremblay","For Ever Now Soon An End",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Monty Adkins","United Kingdom"
+51,"Pierre Alexandre Tremblay - For Ever Now Soon An End",NONE,"Acousmatic - Pierre Alexandre Tremblay","For Ever Now Soon An End",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Helena Gough","United Kingdom"
+51,"Pierre Alexandre Tremblay - For Ever Now Soon An End",NONE,"Acousmatic - Pierre Alexandre Tremblay","For Ever Now Soon An End",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Scott Hewitt","United Kingdom"
+51,"Pierre Alexandre Tremblay - For Ever Now Soon An End",NONE,"Acousmatic - Pierre Alexandre Tremblay","For Ever Now Soon An End",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Michael Clarke","United Kingdom"
+51,"Pierre Alexandre Tremblay - For Ever Now Soon An End",NONE,"Acousmatic - Pierre Alexandre Tremblay","For Ever Now Soon An End",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Geoff Cox","United Kingdom"
+52,"Pierre Alexandre Tremblay - The three little p…",NONE,"Acousmatic - Pierre Alexandre Tremblay","The three little p...",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Dave Smith","United Kingdom"
+52,"Pierre Alexandre Tremblay - The three little p…",NONE,"Acousmatic - Pierre Alexandre Tremblay","The three little p...",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Anton Lukoszevieze","United Kingdom"
+52,"Pierre Alexandre Tremblay - The three little p…",NONE,"Acousmatic - Pierre Alexandre Tremblay","The three little p...",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Paul Archbold","United Kingdom"
+52,"Pierre Alexandre Tremblay - The three little p…",NONE,"Acousmatic - Pierre Alexandre Tremblay","The three little p...",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Stewart Worthy","United Kingdom"
+52,"Pierre Alexandre Tremblay - The three little p…",NONE,"Acousmatic - Pierre Alexandre Tremblay","The three little p...",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Ben Potts","United Kingdom"
+52,"Pierre Alexandre Tremblay - The three little p…",NONE,"Acousmatic - Pierre Alexandre Tremblay","The three little p...",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Delia Derbyshire","United Kingdom"
+52,"Pierre Alexandre Tremblay - The three little p…",NONE,"Acousmatic - Pierre Alexandre Tremblay","The three little p...",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Daphne Oram","United Kingdom"
+52,"Pierre Alexandre Tremblay - The three little p…",NONE,"Acousmatic - Pierre Alexandre Tremblay","The three little p...",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Jason Payne","United Kingdom"
+52,"Pierre Alexandre Tremblay - The three little p…",NONE,"Acousmatic - Pierre Alexandre Tremblay","The three little p...",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Ambrose Field","United Kingdom"
+52,"Pierre Alexandre Tremblay - The three little p…",NONE,"Acousmatic - Pierre Alexandre Tremblay","The three little p...",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","David Toop","United Kingdom"
+52,"Pierre Alexandre Tremblay - The three little p…",NONE,"Acousmatic - Pierre Alexandre Tremblay","The three little p...",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall",Autistici,"United Kingdom"
+52,"Pierre Alexandre Tremblay - The three little p…",NONE,"Acousmatic - Pierre Alexandre Tremblay","The three little p...",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Philip Thomas","United Kingdom"
+52,"Pierre Alexandre Tremblay - The three little p…",NONE,"Acousmatic - Pierre Alexandre Tremblay","The three little p...",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Phil Maguire","United Kingdom"
+52,"Pierre Alexandre Tremblay - The three little p…",NONE,"Acousmatic - Pierre Alexandre Tremblay","The three little p...",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Rose Dodd","United Kingdom"
+52,"Pierre Alexandre Tremblay - The three little p…",NONE,"Acousmatic - Pierre Alexandre Tremblay","The three little p...",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Trevor Wishart","United Kingdom"
+52,"Pierre Alexandre Tremblay - The three little p…",NONE,"Acousmatic - Pierre Alexandre Tremblay","The three little p...",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Jonty Harrison","United Kingdom"
+52,"Pierre Alexandre Tremblay - The three little p…",NONE,"Acousmatic - Pierre Alexandre Tremblay","The three little p...",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Evan Parker","United Kingdom"
+52,"Pierre Alexandre Tremblay - The three little p…",NONE,"Acousmatic - Pierre Alexandre Tremblay","The three little p...",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Alex Harker","United Kingdom"
+52,"Pierre Alexandre Tremblay - The three little p…",NONE,"Acousmatic - Pierre Alexandre Tremblay","The three little p...",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Monty Adkins","United Kingdom"
+52,"Pierre Alexandre Tremblay - The three little p…",NONE,"Acousmatic - Pierre Alexandre Tremblay","The three little p...",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Helena Gough","United Kingdom"
+52,"Pierre Alexandre Tremblay - The three little p…",NONE,"Acousmatic - Pierre Alexandre Tremblay","The three little p...",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Scott Hewitt","United Kingdom"
+52,"Pierre Alexandre Tremblay - The three little p…",NONE,"Acousmatic - Pierre Alexandre Tremblay","The three little p...",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Michael Clarke","United Kingdom"
+52,"Pierre Alexandre Tremblay - The three little p…",NONE,"Acousmatic - Pierre Alexandre Tremblay","The three little p...",0,0,2010,"UBC Impart","GEMDays 2011","Phipps Concert Hall","Geoff Cox","United Kingdom"
+56,"Monty Adkins - Remnant",NONE,"Multimedia - Ricardo Climent",Remnant,0,0,2010,NULL,"GEMDays 2011","Phipps Concert Hall",NULL,NULL
+57,"Mark Pilkington - Camera Down",NONE,"Multimedia - Ricardo Climent","Camera Down ",0,0,2010,NULL,"GEMDays 2011","Phipps Concert Hall",NULL,NULL
+58,"Ricardo Climent - S.LOW - VIP lounges are for ALL",NONE,"Multimedia - Ricardo Climent","S.LOW - VIP lounges are for ALL ",0,0,2010,NULL,"GEMDays 2011","Phipps Concert Hall",NULL,NULL
+61,"Sten-Olof Hellström - In My Own Words",NONE,"Mixed Music - Alexander Schubert","In My Own Words ",0,0,2011,NULL,"GEMDays 2011","Phipps Concert Hall",NULL,NULL
+62,"Alexander Schubert - Semaphores",NONE,"Mixed Music - Alexander Schubert",Semaphores,0,0,2008,NULL,"GEMDays 2011","Phipps Concert Hall",NULL,NULL
+63,"Alexander Schubert - A few Plateaus",NONE,"Mixed Music - Alexander Schubert","A few Plateaus",0,0,2010,NULL,"GEMDays 2011","Phipps Concert Hall",NULL,NULL
+64,"Alexander Schubert - Nachtschatten",NONE,"Mixed Music - Alexander Schubert",Nachtschatten,0,0,2008,NULL,"GEMDays 2011","Phipps Concert Hall",NULL,NULL
+65,"Alexander Schubert - Laplace Tiger",NONE,"Mixed Music - Alexander Schubert","Laplace Tiger ",0,0,2012,NULL,"GEMDays 2011","Phipps Concert Hall",NULL,NULL
+66,"Alex Harker - Fluence",NONE,"Augmented Voice - Peyee Chen","Fluence ",0,0,2010,NULL,"GEMDays 2011","Phipps Concert Hall",NULL,NULL
+67,"Kaija Saariaho - Lohn",NONE,"Augmented Voice - Peyee Chen",Lohn,0,0,1996,NULL,"GEMDays 2011","Phipps Concert Hall",NULL,NULL
+68,"Jed Backhouse - chi*ca*go",NONE,"Augmented Voice - Peyee Chen",chi*ca*go,0,0,2011,NULL,"GEMDays 2011","Phipps Concert Hall",NULL,NULL
+69,"Scott McLaughlin - Action at a distance",NONE,"Augmented Voice - Peyee Chen","Action at a distance ("no one is an island")",0,0,2011,NULL,"GEMDays 2011","Phipps Concert Hall",NULL,NULL
+70,"Philippe Manoury - En Echo",NONE,"Augmented Voice - Peyee Chen","En Echo",0,0,1994,NULL,"GEMDays 2011","Phipps Concert Hall",NULL,NULL
+73,"Annette Vande Gorne - Yawar Fiesta",NONE,"Acousmatic Opera - Annette Vande Gorne","Yawar Fiesta",0,0,2012,NULL,"Electric Spring 2012","Phipps Concert Hall",NULL,NULL
+74,"Jaydev Mistry - Homespun",WORLD,"Mixed Music - Evan Parker + Adam Linson",Homespun,0,0,2011,NULL,"Electric Spring 2012","Phipps Concert Hall",NULL,NULL
+75,"Evan Parker + Adam Linson - Looms",NONE,"Mixed Music - Evan Parker + Adam Linson",Looms,0,0,2012,NULL,"Electric Spring 2012","Phipps Concert Hall",NULL,NULL
+77,"Nicolas Bernier - Antithèse électronique",EUROPEAN,"Laptop Performance - @c","Antithèse électronique",0,0,2011,NULL,"Electric Spring 2012","Phipps Concert Hall",NULL,NULL
+78,"Nicolas Bernier - Dans le ventre de la machine",EUROPEAN,"Laptop Performance - @c","Dans le ventre de la machine",0,0,2011,NULL,"Electric Spring 2012","Phipps Concert Hall",NULL,NULL
+80,"Maria Castro - Respiri/Breaths [aline]",NONE,"Ambiant Videomusic - Peter Höslcher + Michael Rüsenberg","Respiri/Breaths [aline]",0,0,2007,NULL,"Electric Spring 2012","Phipps Concert Hall",NULL,NULL
+82,"Peter Höslcher + Michael Rüsenberg - Notre Dame de Paris ",WORLD,"Ambiant Videomusic - Peter Höslcher + Michael Rüsenberg","Notre Dame de Paris",0,0,2012,NULL,"Electric Spring 2012","Phipps Concert Hall",NULL,NULL
+83,"HAJIME...the beginning...",NONE,"HAJIME...the beginning...","HAJIME...the beginning...",0,0,2011,NULL,"GEMDays 2011",Atrium,NULL,NULL
+84,"HAJIME...the beginning...",NONE,"HAJIME...the beginning...","HAJIME...the beginning...",0,0,2011,NULL,"GEMDays 2011",Atrium,NULL,NULL
+85,"HAJIME...the beginning...",NONE,"HAJIME...the beginning...","HAJIME...the beginning...",0,0,2011,NULL,"GEMDays 2011",Atrium,NULL,NULL
+86,"HAJIME...the beginning...",NONE,"HAJIME...the beginning...","HAJIME...the beginning...",0,0,2011,NULL,"GEMDays 2011",Atrium,NULL,NULL
+87,"HAJIME...the beginning...",NONE,"HAJIME...the beginning...","HAJIME...the beginning...",0,0,2011,NULL,"GEMDays 2011",Atrium,NULL,NULL
+88,"Derrick Archer - Da3",NONE,"Derrick Archer: sound installation - Da3",Da3,0,0,2009,NULL,"GEMDays 2009",Atrium,NULL,NULL
+89,"Derrick Archer - Sxc5pl2",NONE,"Derrick Archer: sound installation - Sxc5pl2",Sxc5pl2,0,0,2009,NULL,"GEMDays 2009",Atrium,NULL,NULL
+90,"Derrick Archer - Garrigue",NONE,"Derrick Archer: sound installation - Garrigue",Garrigue,0,0,2009,NULL,"GEMDays 2009",Atrium,NULL,NULL
+95,"Mark Bokowiec + Julie Wilson-Bokowiec - Underwater",NONE,"GEMDays 2.3 - Inter-vention",Underwater,0,0,2001,NULL,"GEMDays Weekend 1: Inter-vention","Drama Studio 1",NULL,NULL
+96,"Mark Bokowiec + Julie Wilson-Bokowiec - Hand-to-Mouth: Ventriloquism",NONE,"GEMDays 2.3 - Inter-vention","Hand-to-Mouth: Ventriloquism",0,0,2006,NULL,"GEMDays Weekend 1: Inter-vention","Drama Studio 1",NULL,NULL
+97,"Mark Bokowiec + Julie Wilson-Bokowiec - Bellmer",NONE,"GEMDays 2.3 - Inter-vention",Bellmer,0,0,2002,NULL,"GEMDays Weekend 1: Inter-vention","Drama Studio 1",NULL,NULL
+98,"Mark Bokowiec + Julie Wilson-Bokowiec - The Suicided Voice ",NONE,"GEMDays 2.3 - Inter-vention","The Suicided Voice",0,0,2005,NULL,"GEMDays Weekend 1: Inter-vention","Drama Studio 1",NULL,NULL
+99,"Mark Bokowiec + Julie Wilson-Bokowiec - Ghosts",NONE,"GEMDays 2.3 - Inter-vention",Ghosts,0,0,1995,NULL,"GEMDays Weekend 1: Inter-vention","Drama Studio 1",NULL,NULL
+100,"Mark Bokowiec + Julie Wilson-Bokowiec -  Lifting Bodies: out of the dust",NONE,"GEMDays 2.3 - Inter-vention","Lifting Bodies: out of the dust",0,0,2006,NULL,"GEMDays Weekend 1: Inter-vention","Drama Studio 1",NULL,NULL
+101,"Constantinos Papadopoulos – Speeding life… Spinning head",NONE,"GEMDays 2.4 – I.S.D. Trip","Speeding life… Spinning head ",0,0,2007,NULL,"GEMDays Weekend 1: Inter-vention","Drama Studio 1",NULL,NULL
+102,"Tristrum Cox – Wendego",NONE,"GEMDays 2.4 – I.S.D. Trip",Wendego,0,0,2007,NULL,"GEMDays Weekend 1: Inter-vention","Drama Studio 1",NULL,NULL
+103,"Rob Crisp - I Make Trees in Sleep",NONE,"GEMDays 2.4 – I.S.D. Trip","I Make Trees in Sleep",0,0,2007,NULL,"GEMDays Weekend 1: Inter-vention","Drama Studio 1",NULL,NULL
+148,"Larry Austin: Tableaux - Convolutions on a Theme ",NONE,"Larry Austin - Tableaux","Tableaux: Convolutions on a Theme",0,0,2004,NULL,"GEMDays 2.1","St-Paul's Hall",NULL,NULL
+147,"Larry Austin - Djuro's Tree ",NONE,"Larry Austin - Tableaux","Djuro's Tree",0,0,1997,NULL,"GEMDays 2.1","St-Paul's Hall",NULL,NULL
+146,"Larry Austin - Williams [re]Mix[ed] ",NONE,"Larry Austin - Tableaux","Williams [re]Mix[ed] ",0,0,2001,NULL,"GEMDays 2.1","St-Paul's Hall",NULL,NULL
+145,"Larry Austin - art is self-alteration is Cage is... ",NONE,"Larry Austin - Tableaux","art is self-alteration is Cage is... ",0,0,1983,NULL,"GEMDays 2.1","St-Paul's Hall",NULL,NULL
+109,"Michel Chion – Requiem - Sanctus ",NONE,"Acousmaticlassics - Lunchtime Concert","Requiem - Sanctus",0,0,1973,NULL,"GEMDays 2.2","St-Paul's Hall",NULL,NULL
+110,"Bernard Parmegiani - de natura sonorum - étude élastique ",NONE,"Acousmaticlassics - Lunchtime Concert","De natura sonorum - Étude élastique ",0,0,1975,NULL,"GEMDays 2.2","St-Paul's Hall",NULL,NULL
+111,"Jonty Harrison – Klang ",NONE,"Acousmaticlassics - Lunchtime Concert",Klang,0,0,1982,NULL,"GEMDays 2.2","St-Paul's Hall",NULL,NULL
+113,"Trevor Wishart - Vox 5 ",NONE,"Acousmaticlassics - Lunchtime Concert","Vox 5",0,0,1986,NULL,"GEMDays 2.2","St-Paul's Hall",NULL,NULL
+114,"Robert Normandeau - Jeu – Les règles du jeu ",NONE,"Acousmaticlassics - Lunchtime Concert","Jeu – Les règles du jeu",0,0,1989,NULL,"GEMDays 2.2","St-Paul's Hall",NULL,NULL
+115,"Yves Daoust - Mi bémol",NONE,"Acousmaticlassics - Lunchtime Concert","Mi bémol",0,0,1990,NULL,"GEMDays 2.2","St-Paul's Hall",NULL,NULL
+116,"Francis Dhomont - Qui est là?",NONE,"Acousmaticlassics - Lunchtime Concert","Qui est là?",0,0,1990,NULL,"GEMDays 2.2","St-Paul's Hall",NULL,NULL
+117,"Paul Lansky - Night Traffic",NONE,"Acousmaticlassics - Lunchtime Concert","Night Traffic",0,0,1990,NULL,"GEMDays 2.2","St-Paul's Hall",NULL,NULL
+118,"Barry Truax - Basilica",NONE,"Acousmaticlassics - Lunchtime Concert",Basilica,0,0,1992,NULL,"GEMDays 2.2","St-Paul's Hall",NULL,NULL
+119,"Gilles Gobeil - Le vertige inconnu ",NONE,"Acousmaticlassics - Lunchtime Concert","Le vertige inconnu",0,0,1993,NULL,"GEMDays 2.2","St-Paul's Hall",NULL,NULL
+120,"Denis Smalley - Névé - 3rd movement ",NONE,"Acousmaticlassics - Lunchtime Concert","Névé – 3rd movement",0,0,1994,NULL,"GEMDays 2.2","St-Paul's Hall",NULL,NULL
+159,"Moderat - Pfandfinderei ",NONE,"MT-TV - Lunchtime concert",Pfandfinderei,0,0,2006,NULL,"GEMDays 2.5","Recital Hall",NULL,NULL
+158,"Francis Dhomont and Inés Wickmann Jaramillo - Moirures",NONE,"MT-TV - Lunchtime concert",Moirures,0,0,2005,NULL,"GEMDays 2.5","Recital Hall",NULL,NULL
+157,"Bitzer+Brunck+Weber - 458nm ",NONE,"MT-TV - Lunchtime concert",458nm,0,0,2006,NULL,"GEMDays 2.5","Recital Hall",NULL,NULL
+156,"Bret Battey - Autarkeia Aggregatum",NONE,"MT-TV - Lunchtime concert","Autarkeia Aggregatum ",0,0,2005,NULL,"GEMDays 2.5","Recital Hall",NULL,NULL
+155,"Autechre - Bass Cadet ",NONE,"MT-TV - Lunchtime concert","Bass Cadet",0,0,1994,NULL,"GEMDays 2.5","Recital Hall",NULL,NULL
+133,"Jean Michel Rivet - Embrasement",NONE,"GEMDays 2.8 - SCRIME: Bordeaux Grand Cru",Embrasement,0,0,1995,NULL,"GEMDays Weekend 2","St-Paul's Hall",NULL,NULL
+131,"Anne Lore Guillemaud - Hors champs",NONE,"GEMDays 2.8 - SCRIME: Bordeaux Grand Cru","Hors champs",0,0,2004,NULL,"GEMDays Weekend 2","St-Paul's Hall",NULL,NULL
+132,"Christian Eloy - Musica mundana",NONE,"GEMDays 2.8 - SCRIME: Bordeaux Grand Cru","Musica mundana",0,0,2007,NULL,"GEMDays Weekend 2","St-Paul's Hall",NULL,NULL
+130,"Christian Eloy - L’estran",NONE,"GEMDays 2.8 - SCRIME: Bordeaux Grand Cru",L’estran,0,0,1995,NULL,"GEMDays Weekend 2","St-Paul's Hall",NULL,NULL
+134,"Christian Eloy - Random Access Memory",NONE,"GEMDays 2.8 - SCRIME: Bordeaux Grand Cru","Random Access Memory ",0,0,1998,NULL,"GEMDays Weekend 2","St-Paul's Hall",NULL,NULL
+135,"Laurent Soulié - Le cri ne peut attendre",NONE,"GEMDays 2.8 - SCRIME: Bordeaux Grand Cru","Le cri ne peut attendre",0,0,2004,NULL,"GEMDays Weekend 2","St-Paul's Hall",NULL,NULL
+136,"Jean Louis Di Santo - Roulements, rebonds",NONE,"GEMDays 2.8 - SCRIME: Bordeaux Grand Cru","Roulements, rebonds",0,0,2006,NULL,"GEMDays Weekend 2","St-Paul's Hall",NULL,NULL
+137,"François Dumeaux - Elytre",NONE,"GEMDays 2.8 - SCRIME: Bordeaux Grand Cru",Elytre,0,0,2005,NULL,"GEMDays Weekend 2","St-Paul's Hall",NULL,NULL
+138,"Christian Eloy - The scar of Ulysses",NONE,"GEMDays 2.8 - SCRIME: Bordeaux Grand Cru","The scar of Ulysses",0,0,2006,NULL,"GEMDays Weekend 2","St-Paul's Hall",NULL,NULL
+153,"Giuseppe Giuliano - A Way",NONE,"GEMDays 2.9 - Viva!","A Way",0,0,2005,NULL,"GEMDays Weekend 2","St-Paul's Hall",NULL,NULL
+152,"Giuseppe Giuliano - Viva!",NONE,"GEMDays 2.9 - Viva!",Viva!,0,0,2005,NULL,"GEMDays Weekend 2","St-Paul's Hall",NULL,NULL
+151,"Matteo Malavasi - Ambient noise",NONE,"GEMDays 2.9 - Viva!","Ambient noise",0,0,2006,NULL,"GEMDays Weekend 2","St-Paul's Hall",NULL,NULL
+150,"Gabriele Vanoni - Cycles",NONE,"GEMDays 2.9 - Viva!",Cycles,0,0,2006,NULL,"GEMDays Weekend 2","St-Paul's Hall",NULL,NULL
+149,"Federico Gardella - …come un’apparenza",NONE,"GEMDays 2.9 - Viva!","…come un’apparenza",0,0,2006,NULL,"GEMDays Weekend 2","St-Paul's Hall",NULL,NULL
+154,"Giuseppe Giuliano - Vidh",NONE,"GEMDays 2.9 - Viva!",Vidh,0,0,1987,NULL,"GEMDays Weekend 2","St-Paul's Hall",NULL,NULL
+160,"Ryoji Ikeda - formula",NONE,"MT-TV - Lunchtime concert",formula,0,0,2005,NULL,"GEMDays 2.5","Recital Hall",NULL,NULL
+161,"Rose Dodd - Kinderspel",NONE,"Portrait Concert - Robert Normandeau",Kinderspel,0,0,1996,NULL,GEM-FEST,"Drama Studio 1",NULL,NULL
+162,"Pierre Alexandre Tremblay - La Rage",NONE,"Portrait Concert - Pierre Alexandre Tremblay","La Rage",0,0,2005,NULL,GEM-FEST,"Canalside West Building ",NULL,NULL
+163,"Pierre Malbos - Shanghai 304L",NONE,"Silent Noisy Music - Wilhem Latchoumia / Crank","Shanghai 304L",0,0,2008,NULL,"GEMDays @ HCMF 2008","Recital Hall",NULL,NULL
+165,"Christopher Fox - Hand-cranked Haiku",NONE,"Silent Noisy Music - Wilhem Latchoumia / Crank","Hand-cranked Haiku",0,0,2008,NULL,"GEMDays @ HCMF 2008","Recital Hall",NULL,NULL
+166,"John Lely - Box Music",NONE,"Silent Noisy Music - Wilhem Latchoumia / Crank","Box Music",0,0,2008,NULL,"GEMDays @ HCMF 2008","Recital Hall",NULL,NULL
+168,"James Saunders - #251108-1 ",NONE,"Silent Noisy Music - Wilhem Latchoumia / Crank",#251108-1,0,0,2008,NULL,"GEMDays @ HCMF 2008","Recital Hall",NULL,NULL
+169,"Nick Williams - little digger",NONE,"Silent Noisy Music - Wilhem Latchoumia / Crank","little digger",0,0,2008,NULL,"GEMDays @ HCMF 2008","Recital Hall",NULL,NULL
+171,"Pierre Malbos - P en dehors",NONE,"Silent Noisy Music - Wilhem Latchoumia / Crank","P en dehors",0,0,2008,NULL,"GEMDays @ HCMF 2008","Recital Hall",NULL,NULL
+172,"Tim Parkinson - three music boxes",NONE,"Silent Noisy Music - Wilhem Latchoumia / Crank","three music boxes",0,0,2008,NULL,"GEMDays @ HCMF 2008","Recital Hall",NULL,NULL
+173,"Pierre Alexandre Tremblay - Le tombeau des fondeurs ",NONE,"Silent Noisy Music - Wilhem Latchoumia / Crank","Le tombeau des fondeurs",0,0,2008,NULL,"GEMDays @ HCMF 2008","Recital Hall",NULL,NULL
+174,"Scott McLaughlin - Study for Penrose",NONE,"Silent Noisy Music - Wilhem Latchoumia / Crank","Study for Penrose",0,0,2008,NULL,"GEMDays @ HCMF 2008","Recital Hall",NULL,NULL
+175,"Paul Newland - pattern",NONE,"Silent Noisy Music - Wilhem Latchoumia / Crank",pattern,0,0,2008,NULL,"GEMDays @ HCMF 2008","Recital Hall",NULL,NULL
+176,"James Saunders - #251108-2",NONE,"Silent Noisy Music - Wilhem Latchoumia / Crank",#251108-2,0,0,2008,NULL,"GEMDays @ HCMF 2008","Recital Hall",NULL,NULL
+177,"Nick Williams - Ut, Re, Mi, Fa, So, La ",NONE,"Silent Noisy Music - Wilhem Latchoumia / Crank","Ut, Re, Mi, Fa, So, La",0,0,2008,NULL,"GEMDays @ HCMF 2008","Recital Hall",NULL,NULL
+178,"Larry Goves - My Name is Peter Stillman.  That is not my real name.",NONE,"Sarah Nicolls Presents Interactivity","My Name is Peter Stillman.  That is not my real name. ",0,0,2008,NULL,"Week-End of Electronic Music","Phipps Concert Hall",NULL,NULL
+179,"Federico Reuben - On Violence ",NONE,"Sarah Nicolls Presents Interactivity","On Violence",0,0,2009,NULL,"Week-End of Electronic Music","Phipps Concert Hall",NULL,NULL
+180,"Pierre Alexandre Tremblay - Un clou, son marteau, et le béton",NONE,"Sarah Nicolls Presents Interactivity","Un clou, son marteau, et le béton",0,0,2009,NULL,"Week-End of Electronic Music","Phipps Concert Hall",NULL,NULL
+181,"Ben Wilson - Sediment ",NONE,"Barry Truax",Sediment,0,0,2003,NULL,"Week-End of Electronic Music","Phipps Concert Hall",NULL,NULL
+182,"Barry Truax - Riverrun ",NONE,"Barry Truax",Riverrun,0,0,2004,NULL,"Week-End of Electronic Music","Phipps Concert Hall",NULL,NULL
+183,"Barry Truax - Temple ",NONE,"Barry Truax",Temple,0,0,2002,NULL,"Week-End of Electronic Music","Phipps Concert Hall",NULL,NULL
+184,"Barry Truax - The Shaman Ascending ",NONE,"Barry Truax","The Shaman Ascending ",0,0,2005,NULL,"Week-End of Electronic Music","Phipps Concert Hall",NULL,NULL
+185,"Alex Harker - Fluence",NONE,"Heather Roche - Clarinet+","Fluence ",0,0,2010,NULL,"Electric Spring @ HCMF 2012","Phipps Concert Hall",NULL,NULL
+186,"Aaron Einbond - Resistance",WORLD,"Heather Roche - Clarinet+",Resistance,0,0,2012,NULL,"Electric Spring @ HCMF 2012","Phipps Concert Hall",NULL,NULL
+187,"Chikako Morishita - Lizard",NONE,"Heather Roche - Clarinet+",Lizard,0,0,2011,NULL,"Electric Spring @ HCMF 2012","Phipps Concert Hall",NULL,NULL
+188,"Sylvain Pohu - L'identité",NONE,"Heather Roche - Clarinet+",L'identité,0,1,2007,NULL,"Electric Spring @ HCMF 2012","Phipps Concert Hall",NULL,NULL
+189,"Pierre Alexandre Tremblay - La rupture inéluctable",NONE,"Heather Roche - Clarinet+","La rupture inéluctable",0,0,2011,NULL,"Electric Spring @ HCMF 2012","Phipps Concert Hall",NULL,NULL
+190,"Jean-François Denis - Point-virgule",NONE,"Empreintes Digitales @ 20: cinema for the ears",Point-virgule,0,0,1990,NULL,"GEMDays @ HCMF 2010","Phipps Concert Hall",NULL,NULL
+191,"Marcelle Deschênes - Le bruit des ailes",UK,"Empreintes Digitales @ 20: cinema for the ears","Le bruit des ailes",0,0,2000,NULL,"GEMDays @ HCMF 2010","Phipps Concert Hall",NULL,NULL
+192,"Francis Dhomont - Points de fuite",NONE,"Empreintes Digitales @ 20: cinema for the ears","Points de fuite",0,0,1982,NULL,"GEMDays @ HCMF 2010","Phipps Concert Hall",NULL,NULL
+193,"Yves Daoust - Mi bémol",NONE,"Empreintes Digitales @ 20: cinema for the ears","Mi bémol",0,0,1990,NULL,"GEMDays @ HCMF 2010","Phipps Concert Hall",NULL,NULL
+194,"Gilles Gobeil - Le vertige inconnu",NONE,"Empreintes Digitales @ 20: cinema for the ears","Le vertige inconnu",0,0,1993,NULL,"GEMDays @ HCMF 2010","Phipps Concert Hall",NULL,NULL
+195,"Stephane Roy - Crystal Music",NONE,"Empreintes Digitales @ 20: cinema for the ears","Crystal Music",0,0,1994,NULL,"GEMDays @ HCMF 2010","Phipps Concert Hall",NULL,NULL
+196,"Denis Smalley - Base Metals",NONE,"Empreintes Digitales @ 20: cinema for the ears","Base Metals",0,0,2000,NULL,"GEMDays @ HCMF 2010","Phipps Concert Hall",NULL,NULL
+197,"Robert Normandeau - Bédé",NONE,"Empreintes Digitales @ 20: cinema for the ears",Bédé,0,0,1990,NULL,"GEMDays @ HCMF 2010","Phipps Concert Hall",NULL,NULL
+200,"Girilal Baars - Lykanthropos",NONE,"Acousmatic Concert - Francis Dhomont",Lykanthropos,0,0,2012,NULL,"Electric Spring 2013","Phipps Concert Hall",NULL,NULL
+201,"Francis Dhomont - Points de fuite",NONE,"Acousmatic Concert - Francis Dhomont","Points de fuite",0,0,1982,NULL,"Electric Spring 2013","Phipps Concert Hall",NULL,NULL
+202,"Francis Dhomont - Phonurgie",NONE,"Acousmatic Concert - Francis Dhomont",Phonurgie,0,0,1998,NULL,"Electric Spring 2013","Phipps Concert Hall",NULL,NULL
+203,"Francis Dhomont - Le travail du rêve",NONE,"Acousmatic Concert - Francis Dhomont","Le travail du rêve",0,0,2011,NULL,"Electric Spring 2013","Phipps Concert Hall",NULL,NULL
+204,"Francis Dhomont - Vol d'arondes",NONE,"Acousmatic Concert - Francis Dhomont","Vol d'arondes",0,0,2001,NULL,"Electric Spring 2013","Phipps Concert Hall",NULL,NULL
+205,"Tout Croche - The Howl Won't Be Silent ",NONE,"Noisy Mixed Music - RUST","The Howl Won't Be Silent ",0,0,2013,NULL,"Electric Spring 2013","Phipps Concert Hall",NULL,NULL
+206,"RUST - erosion",NONE,"Noisy Mixed Music - RUST",erosion,0,0,2013,NULL,"Electric Spring 2013","Phipps Concert Hall",NULL,NULL
+207,"RUST - rust",NONE,"Noisy Mixed Music - RUST",rust,0,0,2013,NULL,"Electric Spring 2013","Phipps Concert Hall",NULL,NULL
+208,"RUST - head transplant experiment ",NONE,"Noisy Mixed Music - RUST","head transplant experiment ",0,0,2013,NULL,"Electric Spring 2013","Phipps Concert Hall",NULL,NULL
+230,"Nicolas Bernier - frequencies (a)",NONE,"New Interface Performance - Nicolas Bernier / FUSIL","frequencies (a) ",0,0,2012,NULL,"Electric Spring 2013","Phipps Concert Hall",NULL,NULL
+231,"FUSIL - Si Ay Perdut mon saber",NONE,"New Interface Performance - Nicolas Bernier / FUSIL","Si Ay Perdut mon saber",0,0,2013,NULL,"Electric Spring 2013","Phipps Concert Hall",NULL,NULL
+215,"Alex Harker - Fractures",NONE,"Videomusic - Eryck Abecassis ",Fractures,0,0,2011,NULL,"Electric Spring 2013","Phipps Concert Hall",NULL,NULL
+217,"Eryck Abecassis - (No humXn) cry for help",WORLD,"Videomusic - Eryck Abecassis ","(No humXn) cry for help",0,0,2013,NULL,"Electric Spring 2013","Phipps Concert Hall",NULL,NULL
+218,"Eryck Abecassis - Noisindia",NONE,"Videomusic - Eryck Abecassis ",Noisindia,0,0,2013,NULL,"Electric Spring 2013","Phipps Concert Hall",NULL,NULL
+221,"Geoff Cox - I'm not Elvis",NONE,"Portrait Concert - Geoff Cox","I'm not Elvis",0,0,2001,NULL,"GEMDays 2010","Phipps Concert Hall",NULL,NULL
+220,"Sam Stocks - Foggy Rd 2000",NONE,"Portrait Concert - Geoff Cox","Foggy Rd 2000",0,0,2010,NULL,"GEMDays 2010","Phipps Concert Hall",NULL,NULL
+222,"Geoff Cox - Introducing: wc lowry",NONE,"Portrait Concert - Geoff Cox","Introducing: wc lowry",0,0,2001,NULL,"GEMDays 2010","Phipps Concert Hall",NULL,NULL
+223,"Geoff Cox - A film about Nice",NONE,"Portrait Concert - Geoff Cox","A film about Nice",0,0,2010,NULL,"GEMDays 2010","Phipps Concert Hall",NULL,NULL
+224,"Geoff Cox - No Escape",NONE,"Portrait Concert - Geoff Cox","No Escape",0,0,2010,NULL,"GEMDays 2010","Phipps Concert Hall",NULL,NULL
+225,"Scott McLaughlin - Resonant Systems",NONE,"Sound Installation - Scott McLaughlin","Resonant Systems",0,0,2013,NULL,"Electric Spring 2013",Atrium,NULL,NULL
+226,"Scott McLaughlin - Resonant Systems",NONE,"Sound Installation - Scott McLaughlin","Resonant Systems",0,0,2013,NULL,"Electric Spring 2013",Atrium,NULL,NULL
+227,"Scott McLaughlin - Resonant Systems",NONE,"Sound Installation - Scott McLaughlin","Resonant Systems",0,0,2013,NULL,"Electric Spring 2013",Atrium,NULL,NULL
+228,"Scott McLaughlin - Resonant Systems",NONE,"Sound Installation - Scott McLaughlin","Resonant Systems",0,0,2013,NULL,"Electric Spring 2013",Atrium,NULL,NULL
+229,"Scott McLaughlin - Resonant Systems",NONE,"Sound Installation - Scott McLaughlin","Resonant Systems",0,0,2013,NULL,"Electric Spring 2013",Atrium,NULL,NULL
+232,"FUSIL - Cutup",NONE,"New Interface Performance - Nicolas Bernier / FUSIL",Cutup,0,0,2013,NULL,"Electric Spring 2013","Phipps Concert Hall",NULL,NULL
+233,"FUSIL - Industrial revolutions",NONE,"New Interface Performance - Nicolas Bernier / FUSIL","Industrial revolutions",0,0,2013,NULL,"Electric Spring 2013","Phipps Concert Hall",NULL,NULL
+234,"Scott Hewitt - Chuck strongly timed freedom #1 ",NONE,"Portrait Concert - Wormhole","Chuck strongly timed freedom #1 ",0,0,2010,NULL,"GEMDays 2010","Phipps Concert Hall",NULL,NULL
+238,"Mark Bokowiec - Amera ",NONE,"Portrait Concert - Roger Doyle",Amera,0,0,2007,NULL,"GEMDays 2010","Phipps Concert Hall",NULL,NULL
+239,"Roger Doyle - The Ninth Set - sectors 1& 2 ",NONE,"Portrait Concert - Roger Doyle","The Ninth Set - sectors 1& 2",0,0,2007,NULL,"GEMDays 2010","Phipps Concert Hall",NULL,NULL
+240,"Roger Doyle - Cool Steel Army  ",NONE,"Portrait Concert - Roger Doyle","Cool Steel Army",0,0,2007,NULL,"GEMDays 2010","Phipps Concert Hall",NULL,NULL
+241,"Roger Doyle - The Idea And Its Shadow ",NONE,"Portrait Concert - Roger Doyle","The Idea And Its Shadow",0,0,2000,NULL,"GEMDays 2010","Phipps Concert Hall",NULL,NULL
+243,"Jamie Fawcus - Stoop  ",WORLD,"Portrait Concert - Jamie Fawcus / Paulina Sundin",Stoop,0,0,2009,NULL,"GEMDays 2010","Phipps Concert Hall",NULL,NULL
+244,"Jamie Fawcus - Resonances  ",WORLD,"Portrait Concert - Jamie Fawcus / Paulina Sundin",Resonances,0,0,2010,NULL,"GEMDays 2010","Phipps Concert Hall",NULL,NULL
+245,"Lars Bröndum - Chain of Events  ",WORLD,"Portrait Concert - Jamie Fawcus / Paulina Sundin","Chain of Events",0,0,2010,NULL,"GEMDays 2010","Phipps Concert Hall",NULL,NULL
+246,"Paulina Sundin - Utresa ",NONE,"Portrait Concert - Jamie Fawcus / Paulina Sundin",Utresa,0,0,2003,NULL,"GEMDays 2010","Phipps Concert Hall",NULL,NULL
+247,"Paulina Sundin - Med lekande kval ",NONE,"Portrait Concert - Jamie Fawcus / Paulina Sundin","Med lekande kval",0,0,2001,NULL,"GEMDays 2010","Phipps Concert Hall",NULL,NULL
+248,"Paulina Sundin - Clandestine Parts ",NONE,"Portrait Concert - Jamie Fawcus / Paulina Sundin","Clandestine Parts",0,0,2000,NULL,"GEMDays 2010","Phipps Concert Hall",NULL,NULL
+249,"Robert Normandeau - Rumeurs (Place de Ransbeck) ",NONE,"Portrait Concert - Robert Normandeau","Rumeurs (Place de Ransbeck)",0,0,1987,NULL,GEM-FEST,"Drama Studio 1",NULL,NULL
+250,"Robert Normandeau - Chorus  ",NONE,"Portrait Concert - Robert Normandeau",Chorus,0,0,2003,NULL,GEM-FEST,"Drama Studio 1",NULL,NULL
+251,"Robert Normandeau - Palimpseste  ",NONE,"Portrait Concert - Robert Normandeau",Palimpseste,0,0,2005,NULL,GEM-FEST,"Drama Studio 1",NULL,NULL
+252,"Robert Normandeau - StrinGDberg  ",NONE,"Portrait Concert - Robert Normandeau",StrinGDberg,0,0,2003,NULL,GEM-FEST,"Drama Studio 1",NULL,NULL
+253,"Françoise Barrière - Java Rosa (Printemps des Saisons) ",NONE,"Portrait Concert - IMEB","Java Rosa (Printemps des Saisons)",0,0,1972,NULL,GEM-FEST,"Drama Studio 1",NULL,NULL
+254,"Françoise Barrière -  Dessus la Mer ",NONE,"Portrait Concert - IMEB","Dessus la Mer",0,0,1997,NULL,GEM-FEST,"Drama Studio 1",NULL,NULL
+255,"Christian Clozier - Par Panglos Gymnopède  ",NONE,"Portrait Concert - IMEB","Par Panglos Gymnopède",0,0,1984,NULL,GEM-FEST,"Drama Studio 1",NULL,NULL
+256,"Christian Clozier - 22 Août ",NONE,"Portrait Concert - IMEB","22 Août",0,0,1972,NULL,GEM-FEST,"Drama Studio 1",NULL,NULL
+257,"Jonty Harrison - BEASTory",NONE,"Empreintes Digitales @ 20: music for dark spaces",BEASTory,0,0,2010,NULL,"GEMDays @ HCMF 2010","Phipps Concert Hall",NULL,NULL
+258,"Pierre Alexandre Tremblay - Ces énigmes lumineuses",NONE,"Empreintes Digitales @ 20: music for dark spaces","Ces énigmes lumineuses",0,0,2010,NULL,"GEMDays @ HCMF 2010","Phipps Concert Hall",NULL,NULL
+259,"Monty Adkins - Five Panels",NONE,"Empreintes Digitales @ 20: music for dark spaces","Five Panels ",0,0,2008,NULL,"GEMDays @ HCMF 2010","Phipps Concert Hall",NULL,NULL
+260,"Ned Bouhalassa - The Lighthouse",NONE,"Empreintes Digitales @ 20: music for dark spaces","The Lighthouse",0,0,2005,NULL,"GEMDays @ HCMF 2010","Phipps Concert Hall",NULL,NULL
+261,"Natasha Barrett - Mobilis in Mobili",NONE,"Empreintes Digitales @ 20: music for dark spaces","Mobilis in Mobili",0,0,2006,NULL,"GEMDays @ HCMF 2010","Phipps Concert Hall",NULL,NULL
+262,"Louis Dufort - Pointe-aux-Trembles",NONE,"Empreintes Digitales @ 20: music for dark spaces",Pointe-aux-Trembles,0,0,1996,NULL,"GEMDays @ HCMF 2010","Phipps Concert Hall",NULL,NULL
+263,"Pete Stollery - ABZ/A",NONE,"Empreintes Digitales @ 20: music for dark spaces",ABZ/A,0,0,1998,NULL,"GEMDays @ HCMF 2010","Phipps Concert Hall",NULL,NULL
+264,"Michael Clarke - Enmeshed",NONE,"Saxophone and Electronics - l_a_u_t",Enmeshed,0,0,2005,NULL,GEM-FEST,"Recital Hall",NULL,NULL
+266,"Chris Cunningham/Autechre - Second Bad Vibel",NONE,"Video Concert","Second Bad Vibel",0,0,1995,NULL,GEM-FEST,"Recital Hall",NULL,NULL
+267,"Martin Clarke - a short film about stillness ",NONE,"Video Concert","a short film about stillness",0,0,2004,NULL,GEM-FEST,"Recital Hall",NULL,NULL
+268,"Steve Conolly/Rose Dodd - Kinderspel ",NONE,"Video Concert",Kinderspel,0,0,1996,NULL,GEM-FEST,"Recital Hall",NULL,NULL
+269,"Chris Morris - My Wrongs #8245-8249 and 117 ",NONE,"Video Concert","My Wrongs #8245-8249 and 117",0,0,2004,NULL,GEM-FEST,"Recital Hall",NULL,NULL
+270,"Keith Marley/Geoff Cox - banal_data ",NONE,"Video Concert",banal_data,0,0,2006,NULL,GEM-FEST,"Recital Hall",NULL,NULL
+271,"Chris Cunningham/Aphex Twin - Rubber Jonny ",NONE,"Video Concert","Rubber Jonny",0,0,2005,NULL,GEM-FEST,"Recital Hall",NULL,NULL
+272,"Marcelle Deschênes/Alain Pelletier - Die Dyer  ",NONE,"Video Concert","Die Dyer",0,0,1999,NULL,GEM-FEST,"Recital Hall",NULL,NULL
+273,"Nick Cope/Tim Howle - Son et Lumières  ",NONE,"Video Concert","Son et Lumières",0,0,2006,NULL,GEM-FEST,"Recital Hall",NULL,NULL
+274,"Miles Chalcraft/Monty Adkins - Symbiont ",NONE,"Video Concert",Symbiont,0,0,2002,NULL,GEM-FEST,"Recital Hall",NULL,NULL
+275,"nemoïka - Recombinant (pt 1)  ",NONE,"Video Concert","Recombinant (pt 1)",0,0,2005,NULL,GEM-FEST,"Recital Hall",NULL,NULL
+276,"Chris Cunningham/Bjork - All is full of love ",NONE,"Video Concert","All is full of love",0,0,1999,NULL,GEM-FEST,"Recital Hall",NULL,NULL
+277,"Phill Niblock - Hurdy Hurry  ",NONE,"Portrait Concert - Phill Niblock","Hurdy Hurry",0,0,1999,NULL,GEM-FEST,"Recital Hall",NULL,NULL
+278,"Phill Niblock - Harm, for cello  ",NONE,"Portrait Concert - Phill Niblock","Harm, for cello",0,0,2003,NULL,GEM-FEST,"Recital Hall",NULL,NULL
+279,"Phill Niblock - Zrost",NONE,"Portrait Concert - Phill Niblock",Zrost,0,0,2004,NULL,GEM-FEST,"Recital Hall",NULL,NULL
+280,"Phill Niblock - Sethwork ",NONE,"Portrait Concert - Phill Niblock",Sethwork,0,0,2003,NULL,GEM-FEST,"Recital Hall",NULL,NULL
+281,"Jean Piché - paNi intiyA ",NONE,"Portrait Concert - Jean Piché","paNi intiyA",0,0,1998,NULL,GEM-FEST,"Recital Hall",NULL,NULL
+282,"Jean Piché - eXpress ",NONE,"Portrait Concert - Jean Piché",eXpress,0,0,2011,NULL,GEM-FEST,"Recital Hall",NULL,NULL
+283,"Jean Piché - Spin ",NONE,"Portrait Concert - Jean Piché",Spin,0,0,2001,NULL,GEM-FEST,"Recital Hall",NULL,NULL
+284,"Jean Piché - Bharat  ",NONE,"Portrait Concert - Jean Piché",Bharat,0,0,2002,NULL,GEM-FEST,"Recital Hall",NULL,NULL
+285,"Rodrigo Constanzo - iminlovewithanothergirl.com<http://iminlovewithanothergirl.com> ",NONE,"Portrait Concert - Andrew Lewis",iminlovewithanothergirl.com<http://iminlovewithanothergirl.com>,0,0,2012,NULL,"Off Season","Phipps Concert Hall",NULL,NULL
+286,"Stephen Harvey - Dock Machines ",NONE,"Portrait Concert - Andrew Lewis","Dock Machines",0,0,2012,NULL,"Off Season","Phipps Concert Hall",NULL,NULL
+287,"Tom Holman-Sheard - Harold ",NONE,"Portrait Concert - Andrew Lewis",Harold,0,0,2012,NULL,"Off Season","Phipps Concert Hall",NULL,NULL
+288,"Samantha Bayram - A Shadow Race ",NONE,"Portrait Concert - Andrew Lewis","A Shadow Race",0,0,2012,NULL,"Off Season","Phipps Concert Hall",NULL,NULL
+289,"Andrew Lewis - Dark Glass ",NONE,"Portrait Concert - Andrew Lewis","Dark Glass",0,0,2011,NULL,"Off Season","Phipps Concert Hall",NULL,NULL
+290,"Andrew Lewis - LEXICON ",NONE,"Portrait Concert - Andrew Lewis",LEXICON,0,0,2012,NULL,"Off Season","Phipps Concert Hall",NULL,NULL
+291,"Phil Maguire - 14AB2",NONE,"Installation - Phil Maguire",14AB2,0,0,2014,NULL,"Electric Spring 2014",Atrium,NULL,NULL
+293,"Phil Maguire - 14AB2",NONE,"Installation - Phil Maguire",14AB2,0,0,2014,NULL,"Electric Spring 2014",Atrium,NULL,NULL
+294,"Phil Maguire - 14AB2",NONE,"Installation - Phil Maguire",14AB2,0,0,2014,NULL,"Electric Spring 2014",Atrium,NULL,NULL
+295,"Phil Maguire - 14AB2",NONE,"Installation - Phil Maguire",14AB2,0,0,2014,NULL,"Electric Spring 2014",Atrium,NULL,NULL
+299,"Sylvain Pohu - Feedback",NONE,"Concert 2 - Sylvain Pohu / Hanna Hartman",Feedback,0,0,2014,NULL,"Electric Spring 2014","Phipps Concert Hall",NULL,NULL
+301,"Sam Hopkins - Decay",NONE,"Concert 3 - Ambrose Field",Decay,0,0,2014,NULL,"Electric Spring 2014","Phipps Concert Hall",NULL,NULL
+302,"Will Stead - Waves",NONE,"Concert 3 - Ambrose Field",Waves,0,0,2014,NULL,"Electric Spring 2014","Phipps Concert Hall",NULL,NULL
+306,"Aaron Cassidy - APOFIR-REDUX",NONE,"Concert 4 - Autistici",APOFIR-REDUX,0,0,2014,NULL,"Electric Spring 2014","Phipps Concert Hall",NULL,NULL
+308,"Patricia Alessandrini - Bodied Chambers",NONE,"Concert 5 - SOUNDkitchen / Patricia Alessandrini","Bodied Chambers",0,0,2014,NULL,"Electric Spring 2014","Phipps Concert Hall",NULL,NULL
+310,"Phil Maguire - 14AB2",NONE,"Installation - Phil Maguire",14AB2,0,0,2014,NULL,"Electric Spring 2014",Atrium,NULL,NULL
+311,"Alex Harker - Fractures",NONE,"electric spring @ 20",Fractures,0,0,2011,NULL,"Electric Spring @ HCMF 2014","Phipps Concert Hall",NULL,NULL
+312,"Michael Clarke - Enmeshed 3",UK,"electric spring @ 20","Enmeshed 3",0,0,2014,NULL,"Electric Spring @ HCMF 2014","Phipps Concert Hall",NULL,NULL
+313,"Monty Adkins + Jason Payne - Rift Patterns",NONE,"electric spring @ 20","Rift Patterns",0,0,2014,NULL,"Electric Spring @ HCMF 2014","Phipps Concert Hall",NULL,NULL
+314,"Pierre Alexandre Tremblay - Still, Again",WORLD,"electric spring @ 20","Still, Again",0,0,2013,NULL,"Electric Spring @ HCMF 2014","Phipps Concert Hall",NULL,NULL
+315,"Roberto Gerhard - DNA in Reflection (Audiomobile no. 2)",NONE,"Event 1 - Hommage to Daphne Oram and Delia Derbyshire","DNA in Reflection (Audiomobile no. 2)",0,0,1963,NULL,"Electric Spring 2015","Phipps Concert Hall",NULL,NULL
+316,"Delia Derbyshire - Dr Who Theme",NONE,"Event 1 - Hommage to Daphne Oram and Delia Derbyshire","Dr Who Theme",0,0,1963,NULL,"Electric Spring 2015","Phipps Concert Hall",NULL,NULL
+317,"Daphne Oram – Contrasts Essonic",NONE,"Event 1 - Hommage to Daphne Oram and Delia Derbyshire","Contrasts Essonic",0,0,1969,NULL,"Electric Spring 2015","Phipps Concert Hall",NULL,NULL
+318,"Delia Derbyshire – Blue Veils and Golden Sands",NONE,"Event 1 - Hommage to Daphne Oram and Delia Derbyshire","Blue Veils and Golden Sands",0,0,1968,NULL,"Electric Spring 2015","Phipps Concert Hall",NULL,NULL
+319,"Daphne Oram – Pulse Persephone",NONE,"Event 1 - Hommage to Daphne Oram and Delia Derbyshire","Pulse Persephone",0,0,1965,NULL,"Electric Spring 2015","Phipps Concert Hall",NULL,NULL
+320,"Daphne Oram – Rockets in Ursa Major",NONE,"Event 1 - Hommage to Daphne Oram and Delia Derbyshire","Rockets in Ursa Major",0,0,1962,NULL,"Electric Spring 2015","Phipps Concert Hall",NULL,NULL
+321,"Delia Derbyshire – The Delian Mode",NONE,"Event 1 - Hommage to Daphne Oram and Delia Derbyshire","The Delian Mode",0,0,1968,NULL,"Electric Spring 2015","Phipps Concert Hall",NULL,NULL
+322,"Daphne Oram – Four Aspects",NONE,"Event 1 - Hommage to Daphne Oram and Delia Derbyshire","Four Aspects",0,0,1960,NULL,"Electric Spring 2015","Phipps Concert Hall",NULL,NULL
+323,"Delia Derbyshire – Towards Tomorrow",NONE,"Event 1 - Hommage to Daphne Oram and Delia Derbyshire","Towards Tomorrow",0,0,1967,NULL,"Electric Spring 2015","Phipps Concert Hall",NULL,NULL
+330,"Elías Merino - Subflection",NONE,"Sound Installation - Elías Merino ",Subflection,0,0,2015,NULL,"Electric Spring 2015",Atrium,NULL,NULL
+327,"Ben Potts - Cuboid",NONE,"Event 2 - Ben Potts / Isnaj Dui",Cuboid,0,0,2015,NULL,"Electric Spring 2015","Phipps Concert Hall",NULL,NULL
+335,"Laurent Segretier - MEMENTO",NONE,"Event 5 - Radek Rudnicki / Laurent Segretier",MEMENTO,0,0,2012,NULL,"Electric Spring 2015","Phipps Concert Hall",NULL,NULL
+336,"Laurent Segretier - LUST",NONE,"Event 5 - Radek Rudnicki / Laurent Segretier",LUST,0,0,2013,NULL,"Electric Spring 2015","Phipps Concert Hall",NULL,NULL
+337,"Laurent Segretier - NOLI ME TANGERE",NONE,"Event 5 - Radek Rudnicki / Laurent Segretier","NOLI ME TANGERE",0,0,2011,NULL,"Electric Spring 2015","Phipps Concert Hall",NULL,NULL
+338,"Radek Rudnicki - Digital Electricity",NONE,"Event 5 - Radek Rudnicki / Laurent Segretier","Digital Electricity",0,0,2015,NULL,"Electric Spring 2015","Phipps Concert Hall",NULL,NULL
+339,"Laurent Segretier - RBT#04",NONE,"Event 5 - Radek Rudnicki / Laurent Segretier",RBT#04,0,0,2013,NULL,"Electric Spring 2015","Phipps Concert Hall",NULL,NULL
+340,"Laurent Segretier - Skyler and Bliss",NONE,"Event 5 - Radek Rudnicki / Laurent Segretier","Skyler and Bliss",0,0,2014,NULL,"Electric Spring 2015","Phipps Concert Hall",NULL,NULL
+341,"Radek Rudnicki - SF a/v solo",NONE,"Event 5 - Radek Rudnicki / Laurent Segretier","SF a v solo",0,0,2014,NULL,"Electric Spring 2015","Phipps Concert Hall",NULL,NULL
+342,"Elías Merino - Subflection",NONE,"Sound Installation  - Elias Merino ",Subflection,0,0,2015,NULL,"Electric Spring 2015",Atrium,NULL,NULL
+343,"Olivier Pasquet - β Pictoris b",NONE,"Event 6 - Olivier Pasquet / Robert Henke ","β Pictoris b",0,0,2015,NULL,"Electric Spring 2015","Phipps Concert Hall",NULL,NULL
+344,"Robert Henke - DUST",NONE,"Event 6 - Olivier Pasquet / Robert Henke ",Dust,0,0,2011,NULL,"Electric Spring 2015","Phipps Concert Hall",NULL,NULL
+345,"Aaron Cassidy - The Pleats of Matter ",NONE,"Event 3 - Aaron Cassidy / Kasper T. Toeplitz","The Pleats of Matter",0,0,2007,NULL,"Electric Spring 2015","Phipps Concert Hall",NULL,NULL
+346,"Kasper T. Toeplitz - Almasty",NONE,"Event 3 - Aaron Cassidy / Kasper T. Toeplitz",Almasty,0,0,2015,NULL,"Electric Spring 2015","Phipps Concert Hall",NULL,NULL
+351,"Elías Merino - Subflection",NONE,"Sound Installation - Elias Merino ",Subflection,0,0,2015,NULL,"Electric Spring 2015",Atrium,NULL,NULL
+353,"Alan Smith - Interjections",NONE,"Electroacoustic Yorkshire",Interjections,0,0,2002,NULL,"Electric Spring 2002","St-Paul's Hall",NULL,NULL
+354,"Ambrose Field - Hurricane Ridge",NONE,"Electroacoustic Yorkshire","Hurricane Ridge",0,0,2002,NULL,"Electric Spring 2002","St-Paul's Hall",NULL,NULL
+355,"Adrian Moore - Superstrings",NONE,"Electroacoustic Yorkshire",Superstrings,0,0,1998,NULL,"Electric Spring 2002","St-Paul's Hall",NULL,NULL
+356,"Derrick Archer - Kare-Sansui-Ji",NONE,"Electroacoustic Yorkshire","Kare-Sansui-Ji ",0,0,2001,NULL,"Electric Spring 2002","St-Paul's Hall",NULL,NULL
+357,"Derrick Archer - The Universe",NONE,"Electroacoustic Yorkshire","The Universe",0,0,2002,NULL,"Electric Spring 2002","St-Paul's Hall",NULL,NULL
+358,"Robert Holroyd - Re#.8",NONE,"Electroacoustic Yorkshire",RE#.8,0,0,2002,NULL,"Electric Spring 2002","St-Paul's Hall",NULL,NULL
+359,"Diego Minciacchi - Mentre noi corravam la morta gora",WORLD,"Electroacoustic Italy","Mentre noi corravam  la morta gora",0,0,1998,NULL,"Electric Spring 2002","St-Paul's Hall",NULL,NULL
+360,"Giuseppe Giuliano - Vidh",NONE,"Electroacoustic Italy",Vidh,0,0,1987,NULL,"Electric Spring 2002","St-Paul's Hall",NULL,NULL
+361,"Diego Minciacchi - Earth will have her say ..or ..say what?",NONE,"Electroacoustic Italy","Earth will have her say ..or ..say what? (if you're searching for specific landmarks) ",0,0,1990,NULL,"Electric Spring 2002","St-Paul's Hall",NULL,NULL
+363,"Paul Wilson - Genesis",NONE,"Electroacoustic Ireland",Genesis,0,0,2002,NULL,"Electric Spring 2002","St-Paul's Hall",NULL,NULL
+364,"Judith Ring - Accumulation",NONE,"Electroacoustic Ireland",Accumulation,0,0,2002,NULL,"Electric Spring 2002","St-Paul's Hall",NULL,NULL
+365,"Roger Doyle - The Idea & Its Shadow",NONE,"Electroacoustic Ireland","The Idea And Its Shadow",0,0,2000,NULL,"Electric Spring 2002","St-Paul's Hall",NULL,NULL
+366,"Steve Reich - Violin Phase",NONE,"Darragh Morgan Performs","Violin Phase",0,0,1967,NULL,"Electric Spring 2002","St-Paul's Hall",NULL,NULL
+367,"Simon Mawhinney - Barcode 3",NONE,"Darragh Morgan Performs","Barcode 3",0,0,2002,NULL,"Electric Spring 2002","St-Paul's Hall",NULL,NULL
+368,"Adrian Moore - (I/V)T",NONE,"Darragh Morgan Performs",(I/V)T,0,0,1996,NULL,"Electric Spring 2002","St-Paul's Hall",NULL,NULL
+369,"Andrew Lovett - Jacob dreaming",NONE,"Darragh Morgan Performs","Jacob dreaming",0,0,1994,NULL,"Electric Spring 2002","St-Paul's Hall",NULL,NULL
+370,"Tim Parkinson - eight violins",NONE,"Darragh Morgan Performs","eight violins",0,0,2001,NULL,"Electric Spring 2002","St-Paul's Hall",NULL,NULL
+371,"Frank Lyons - Dazed by the Haze",NONE,"Darragh Morgan Performs","Dazed by the Haze",0,0,2002,NULL,"Electric Spring 2002","St-Paul's Hall",NULL,NULL
+372,"Michael Alcorn - Crossing the Threshold",NONE,"Darragh Morgan Performs","Crossing the Threshold",0,0,2002,NULL,"Electric Spring 2002","St-Paul's Hall",NULL,NULL
+374,"Vinko Globokar - Prestop II ",NONE,"The music of Vinko Globokar","Prestop II",0,0,1991,NULL,"Electric Spring 2004","St-Paul's Hall",NULL,NULL
+375,"Vinko Globokar - Corporel",NONE,"The music of Vinko Globokar",Corporel,0,0,1984,NULL,"Electric Spring 2004","St-Paul's Hall",NULL,NULL
+376,"Vinko Globokar - Dos a Dos",NONE,"The music of Vinko Globokar","Dos a Dos",0,0,1988,NULL,"Electric Spring 2004","St-Paul's Hall",NULL,NULL
+377,"Vinko Globokar - Oblak Semen",NONE,"The music of Vinko Globokar","Oblak Semen",0,0,1996,NULL,"Electric Spring 2004","St-Paul's Hall",NULL,NULL
+379,"Vinko Globokar - Ombre",NONE,"The music of Vinko Globokar",Ombre,0,0,1989,NULL,"Electric Spring 2004","St-Paul's Hall",NULL,NULL
+380,"Vinko Globokar - Discours II",NONE,"The music of Vinko Globokar","Discours II",0,0,1967,NULL,"Electric Spring 2004","St-Paul's Hall",NULL,NULL
+381,"Ruth Duckworth – Steamtalk2",NONE,"Electronic Yorkshire",Steamtalk2,0,0,2003,NULL,"Electric Spring 2004","St-Paul's Hall",NULL,NULL
+382,"Derrick Archer - Dreamcatcher",NONE,"Electronic Yorkshire",Dreamcatcher,0,0,2004,NULL,"Electric Spring 2004","St-Paul's Hall",NULL,NULL
+384,"Chrissie Lockwood – Little Pieces of Me",NONE,"Three Piece Suite","Little Pieces of Me",0,0,2004,NULL,"Electric Spring 2004","St-Paul's Hall",NULL,NULL
+385,"Keith Forryan – Channel 1",NONE,"Three Piece Suite","Channel 1",0,0,2004,NULL,"Electric Spring 2004","St-Paul's Hall",NULL,NULL
+386,"Adam Jansch – Sompi’s Television Hi-Way",NONE,"Three Piece Suite","Sompi’s Television Hi-Way",0,0,2004,NULL,"Electric Spring 2004","St-Paul's Hall",NULL,NULL
+388,"The Suicided Voice - Mark Bokowiec & Julie Wilson-Bokowiec",NONE,"The Suicided Voice","The Suicided Voice",0,0,2005,NULL,"Electric Spring 2004","Recital Hall",NULL,NULL
+389,"Paul Archbold – Recoil",NONE,"Peter Hill Performs",Recoil,0,0,2004,NULL,"Electric Spring 2004","St-Paul's Hall",NULL,NULL
+390,"Adrian Moore – Piano and tape",NONE,"Peter Hill Performs","Piano and tape ",0,0,2004,NULL,"Electric Spring 2004","St-Paul's Hall",NULL,NULL
+391,"Olivier Messiaen - La Buse variable",NONE,"Peter Hill Performs","La Buse variable",0,0,1956,NULL,"Electric Spring 2004","St-Paul's Hall",NULL,NULL
+392,"Olivier Messiaen – Le Courlis cendré ",NONE,"Peter Hill Performs","Le Courlis cendré",0,0,1956,NULL,"Electric Spring 2004","St-Paul's Hall",NULL,NULL
+393,"Adrian Moore – Piano and tape",NONE,"Peter Hill Performs","Piano and tape ",0,0,2004,NULL,"Electric Spring 2004","St-Paul's Hall",NULL,NULL
+394,"Paul Archbold – Recoil",NONE,"Peter Hill Performs",Recoil,0,0,2004,NULL,"Electric Spring 2004","St-Paul's Hall",NULL,NULL
+395,"Monty Adkins – Aerial",NONE,"Laborintus II",Aerial,0,0,2002,NULL,"Electric Spring 2004","St-Paul's Hall",NULL,NULL
+396,"Thomas W Mudd – Cave Drone",NONE,"Laborintus II","Cave Drone",0,0,2004,NULL,"Electric Spring 2004","St-Paul's Hall",NULL,NULL
+397,"Andrew Croft – Storm Warning",NONE,"Laborintus II","Storm Warning",0,0,2004,NULL,"Electric Spring 2004","St-Paul's Hall",NULL,NULL
+398,"Scott Hewitt – Trumpet Roll Call",NONE,"Laborintus II","Trumpet Roll Call",0,0,2004,NULL,"Electric Spring 2004","St-Paul's Hall",NULL,NULL
+399,"David Moore – Zero Point Field",NONE,"Laborintus II","Zero Point Field",0,0,2004,NULL,"Electric Spring 2004","St-Paul's Hall",NULL,NULL
+400,"Geoff Cox – I’m Not Elvis",NONE,"Laborintus II","I'm not Elvis",0,0,2001,NULL,"Electric Spring 2004","St-Paul's Hall",NULL,NULL
+401,"Luciano Berio – Laborintus II",NONE,"Laborintus II","Laborintus II",0,0,1965,NULL,"Electric Spring 2004","St-Paul's Hall",NULL,NULL
+402," Rose Dodd - Transient I",NONE,Polyphony,"Transient I",0,0,1995,NULL,"Electric Spring 2001","St-Paul's Hall",NULL,NULL
+403,"James Mohan - Wood",NONE,Polyphony,Wood,0,0,2001,NULL,"Electric Spring 2001","St-Paul's Hall",NULL,NULL
+404,"Andrew Lewis - Scherzo",NONE,Polyphony,Scherzo,0,0,2001,NULL,"Electric Spring 2001","St-Paul's Hall",NULL,NULL
+405,"Miguel Azguime - Comunicaões",NONE,Polyphony,Comunicações,0,0,1998,NULL,"Electric Spring 2001","St-Paul's Hall",NULL,NULL
+406,"James Perkin - Dali's Momentary Thought That Life May Not Be Surreal",NONE,Polyphony,"Dali's Momentary Thought That Life May Not Be Surreal",0,0,2001,NULL,"Electric Spring 2001","St-Paul's Hall",NULL,NULL
+407,"Harald Muenz - BeethovEnBloc",NONE,Polyphony,BeethovEnBloc,0,0,2000,NULL,"Electric Spring 2001","St-Paul's Hall",NULL,NULL
+408,"Olivier Messiaen - Cantéyodjayâ",NONE,"Peter Hill Performs",Cantéyodjayâ,0,0,1949,NULL,"Electric Spring 2001","St-Paul's Hall",NULL,NULL
+409,"Bernard Parmegiani - De Natura Sonorum (Part 1)",NONE,"Peter Hill Performs","De Natura Sonorum",0,0,1975,NULL,"Electric Spring 2001","St-Paul's Hall",NULL,NULL
+411,"Karlheinz Stockhausen - Klavierstück VII",NONE,"Peter Hill Performs","Klavierstück VII",0,0,1955,NULL,"Electric Spring 2001","St-Paul's Hall",NULL,NULL
+412,"Bernard Parmegiani - De Natura Sonorum (Part 2)",NONE,"Peter Hill Performs","De Natura Sonorum",0,0,1975,NULL,"Electric Spring 2001","St-Paul's Hall",NULL,NULL
+413,"Olivier Messiaen - La Chouette Hulotte",NONE,"Peter Hill Performs","La Chouette Hulotte",0,0,1958,NULL,"Electric Spring 2001","St-Paul's Hall",NULL,NULL
+414,"Bernard Parmegiani - De Natura Sonorum (Part 3)",NONE,"Peter Hill Performs","De Natura Sonorum",0,0,1975,NULL,"Electric Spring 2001","St-Paul's Hall",NULL,NULL
+415,"Olivier Messiaen - L'Alouette Lulu",NONE,"Peter Hill Performs","L'Alouette Lulu ",0,0,1958,NULL,"Electric Spring 2001","St-Paul's Hall",NULL,NULL
+416,"Karlheinz Stockhausen - SOLO (cello version)",NONE,"Anton Lukoszevieze and Melvyn Poore Perform","SOLO for melody instrument with feedback",0,0,1966,NULL,"Electric Spring 2001","St-Paul's Hall",NULL,NULL
+417,"Nicolaus A Huber - Solo mit Koonstück",NONE,"Anton Lukoszevieze and Melvyn Poore Perform","Solo mit Koonstück",0,0,2000,NULL,"Electric Spring 2001","St-Paul's Hall",NULL,NULL
+418,"Karlheinz Stockhausen - SOLO (tuba version)",NONE,"Anton Lukoszevieze and Melvyn Poore Perform","SOLO for melody instrument with feedback",0,0,1966,NULL,"Electric Spring 2001","St-Paul's Hall",NULL,NULL
+419,"Monty Adkins & James Saunders - #160301",NONE,"Anton Lukoszevieze and Melvyn Poore Perform",#160301,0,0,2000,NULL,"Electric Spring 2001","St-Paul's Hall",NULL,NULL
+420,"David Lowe - Alive",NONE,"Concert 1",Alive,0,0,1999,NULL,"Electric Spring 2000","St-Paul's Hall",NULL,NULL
+421,"David Lowe - The Pencil Box",NONE,"Concert 1","The Pencil Box",0,0,1999,NULL,"Electric Spring 2000","St-Paul's Hall",NULL,NULL
+422,"Nick Gage - A Moonlit Struggle",NONE,"Concert 1","A Moonlit Struggle",0,0,1999,NULL,"Electric Spring 2000","St-Paul's Hall",NULL,NULL
+423,"Miriam Young - The firework display on the way home",NONE,"Concert 1","The firework display on the way home",0,0,1999,NULL,"Electric Spring 2000","St-Paul's Hall",NULL,NULL
+424,"Matthew Dean - Timbral Fires",NONE,"Concert 1","Timbral Fires",0,0,1999,NULL,"Electric Spring 2000","St-Paul's Hall",NULL,NULL
+425,"Jo Thomas - Dark Noise",NONE,"Concert 1","Dark Noise",0,0,1999,NULL,"Electric Spring 2000","St-Paul's Hall",NULL,NULL
+426,"Bryn Harrison - Mantra for trumpet and drone",NONE,"Concert 1","Mantra for trumpet and drone",0,0,1998,NULL,"Electric Spring 2000","St-Paul's Hall",NULL,NULL
+427,"Geoffrey Cox - Remembrance: Foggy Road 2000",NONE,"Concert 1","Remembrance: Foggy Road 2000",0,0,2000,NULL,"Electric Spring 2000","St-Paul's Hall",NULL,NULL
+428,"Jonathan Harvey - Ricecare una melodia",NONE,"Concert 1","Ricecare una melodia ",0,0,1984,NULL,"Electric Spring 2000","St-Paul's Hall",NULL,NULL
+429,"Nigel Morgan - Preludes 1, 3, 4 & 2",WORLD,"Alan Thomas Performs",Preludes,0,0,2000,NULL,"Electric Spring 2000","St-Paul's Hall",NULL,NULL
+430,"Laurence Crane - Bobby J",NONE,"Alan Thomas Performs","Bobby J",0,0,1999,NULL,"Electric Spring 2000","St-Paul's Hall",NULL,NULL
+431,"Paul Davies - Ciaccona 21",WORLD,"Alan Thomas Performs","Ciaccona 21",0,0,1999,NULL,"Electric Spring 2000","St-Paul's Hall",NULL,NULL
+432,"Christopher Fox - The grain of abstraction",UK,"Alan Thomas Performs","The grain of abstraction",0,0,1999,NULL,"Electric Spring 2000","St-Paul's Hall",NULL,NULL
+433,"Tod Machover - Diplacements",NONE,"Alan Thomas Performs",Diplacements,0,0,1978,NULL,"Electric Spring 2000","St-Paul's Hall",NULL,NULL
+434,"Christopher Fox - chant suspendu",NONE,"Judith Mitchell Performs","chant suspendu",0,0,1998,NULL,"Electric Spring 2000","St-Paul's Hall",NULL,NULL
+435,"Andrew Lovett - unknown terrors",NONE,"Judith Mitchell Performs","unknown terrors",0,0,2000,NULL,"Electric Spring 2000","St-Paul's Hall",NULL,NULL
+436,"Kaija Saariaho - Près",UK,"Judith Mitchell Performs",Près,0,0,1992,NULL,"Electric Spring 2000","St-Paul's Hall",NULL,NULL
+437,"Monty Adkins - Noumena",NONE,"Judith Mitchell Performs",Noumena,0,0,2000,NULL,"Electric Spring 2000","St-Paul's Hall",NULL,NULL
+438,"Michael Clarke - Tim(br)E",NONE,"Michael Clarke Performs",Tim(br)E,0,0,1996,NULL,"Electric Spring 2000","St-Paul's Hall",NULL,NULL
+439,"Michael Clarke - Cascade",NONE,"Michael Clarke Performs",Cascade,0,0,1999,NULL,"Electric Spring 2000","St-Paul's Hall",NULL,NULL
+440,"Michael Clarke - Prism",NONE,"Michael Clarke Performs",Prism,0,0,1998,NULL,"Electric Spring 2000","St-Paul's Hall",NULL,NULL
+441,"Geoff Cox - Last Train",NONE,Polyphony,"Last Train",0,0,1999,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+442,"Jo Thomas - Glitch",NONE,Polyphony,Glitch,0,0,1999,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+446,"Lisa Reim - Requiem",NONE,Polyphony,Requiem,0,0,1999,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+447,"John Cage - Songbooks",NONE,Polyphony,Songbooks,0,0,1970,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+445,"Yves Daoust - La Gamme",NONE,Polyphony,"La Gamme",0,0,1981,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+448,"James Liddle - Vivaldi's Cup",NONE,Polyphony,"Vivaldi's Cup",0,0,1999,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+450,"Mark Bromwich - Zeitgeist",NONE,Polyphony,Zeitgeist,0,0,1999,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+451,"Monty Adkins - Pagan Circus",NONE,"Octophonic Concert 1","Pagan Circus",0,0,1997,NULL,"Electric Spring 1999","Recital Hall",NULL,NULL
+452,"Hans Tutschku - Extrémités Lointaines",NONE,"Octophonic Concert 1","Extrémités Lointaines",0,0,1997,NULL,"Electric Spring 1999","Recital Hall",NULL,NULL
+453,"Ambrose Field - Till",NONE,"Octophonic Concert 1",Till,0,0,1997,NULL,"Electric Spring 1999","Recital Hall",NULL,NULL
+454,"Yves Daoust - Mi bémol",NONE,"Octophonic Concert 1","Mi bémol",0,0,1990,NULL,"Electric Spring 1999","Recital Hall",NULL,NULL
+455,"Yves Daoust - Résonances",NONE,"Octophonic Concert 1",Résonances,0,0,1992,NULL,"Electric Spring 1999","Recital Hall",NULL,NULL
+456,"David Lumsdaine - Near and Far",NONE,"Octophonic Concert 1","Near and Far",0,0,1997,NULL,"Electric Spring 1999","Recital Hall",NULL,NULL
+457,"Yves Daoust - Impromptu",NONE,"Sonic Arts Network Concert 1",Impromptu,0,0,1994,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+458,"Nick Fells - Vug",NONE,"Sonic Arts Network Concert 1",Vug,0,0,1998,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+459,"Mike Challis - Arboretum",NONE,"Sonic Arts Network Concert 1",Arboretum,0,0,1999,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+460,"Robert Mackay - Voicewind",NONE,"Sonic Arts Network Concert 1",Voicewind,0,0,1998,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+461,"Aquiles Pantaleao - Three Inconspicuous Settings",NONE,"Sonic Arts Network Concert 1","Three Inconspicuous Settings",0,0,1999,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+462,"Natasha Barrett - Red Snow",NONE,"Sonic Arts Network Concert 1","Red Snow",0,0,1999,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+463,"Luciano Berio - Laborintus II",NONE,"Sonic Arts Network Concert 1","Laborintus II",0,0,1965,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+465,"Monty Adkins - Pagan Circus",NONE,"Octophonic Concert 1 (as 1pm)","Pagan Circus",0,0,1997,NULL,"Electric Spring 1999","Recital Hall",NULL,NULL
+466,"Hans Tutschku - Extrémités Lointaines",NONE,"Octophonic Concert 1 (as 1pm)","Extrémités Lointaines",0,0,1997,NULL,"Electric Spring 1999","Recital Hall",NULL,NULL
+467,"Ambrose Field - Till",NONE,"Octophonic Concert 1 (as 1pm)",Till,0,0,1997,NULL,"Electric Spring 1999","Recital Hall",NULL,NULL
+468,"Yves Daoust - Mi bémol",NONE,"Octophonic Concert 1 (as 1pm)","Mi bémol",0,0,1990,NULL,"Electric Spring 1999","Recital Hall",NULL,NULL
+469,"Yves Daoust - Résonances",NONE,"Octophonic Concert 1 (as 1pm)",Résonances,0,0,1992,NULL,"Electric Spring 1999","Recital Hall",NULL,NULL
+470,"David Lumsdaine - Near and Far",NONE,"Octophonic Concert 1 (as 1pm)","Near and Far",0,0,1997,NULL,"Electric Spring 1999","Recital Hall",NULL,NULL
+471,"Douglas Doherty - Neptune's Children (on the edge of Chaos)",NONE,"Sonic Arts Network Concert 2","Neptune's Children (on the edge of Chaos)",0,0,1999,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+472,"John Levack Drever/Alaric Sumner - Hope",NONE,"Sonic Arts Network Concert 2",Hope,0,0,1998,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+473,"Diego Garro - Voci dall'aldiqua",NONE,"Sonic Arts Network Concert 2","Voci dall'aldiqua ",0,0,1999,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+474,"Francesco Giomi - Agnaby",NONE,"Sonic Arts Network Concert 2",Agnaby,0,0,1997,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+475,"Vassileia Boura - Choros ichthyon",NONE,"Sonic Arts Network Concert 2","Choros ichthyon",0,0,1999,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+476,"Eduardo R Miranda - Olivine Trees",NONE,"Sonic Arts Network Concert 2","Olivine Trees",0,0,1999,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+477,"lain McCurdy - Dualogue",NONE,"Sonic Arts Network Concert 2",Dualogue,0,0,1999,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+478,"David Lloyd-Howells - Fractosonic Graffiti - Prologue",NONE,"Sonic Arts Network Concert 2","Fractosonic Graffiti - Prologue",0,0,1999,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+479,"Rajmil Fischman - Kol HaTorr",NONE,"Sonic Arts Network Concert 2","Kol HaTorr",0,0,1998,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+480,"Ricardo Clement - NYSE",NONE,"Sonic Arts Network Concert 2",NYSE,0,0,1998,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+481,"David Prior - Dense",NONE,"Sonic Arts Network Concert 3",Dense,0,0,1995,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+482,"Coryn Smethurst - Density",NONE,"Sonic Arts Network Concert 3",Density,0,0,1999,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+483,"Sam Fendrich - Etude Brutus",NONE,"Sonic Arts Network Concert 3","Etude Brutus",0,0,1999,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+484,"Dennis Wiehahn - Cornish Voices",NONE,"Sonic Arts Network Concert 3","Cornish Voices",0,0,1997,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+485,"Paul Wilson - Air",NONE,"Sonic Arts Network Concert 3",Air,0,0,1999,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+486,"Robert T Smith - Essential Torque",NONE,"Sonic Arts Network Concert 3","Essential Torque",0,0,1999,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+487,"Tom Wallace - BrixtonQuatrain",NONE,"Sonic Arts Network Concert 3",BrixtonQuatrain,0,0,1999,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+488,"Dugal McKinnon - Horizont im Ohr",NONE,"Sonic Arts Network Concert 3","Horizont im Ohr",0,0,1999,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+489,"John Ayres - Spare Notes",NONE,"Sonic Arts Network Concert 3","Spare Notes",0,0,1999,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+490,"Graham Hadfield - Europa",NONE,"Sonic Arts Network Concert 3",Europa,0,0,1997,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+491,"Antti Saario - Soft lies soft icons",NONE,"Sonic Arts Network Concert 4","Soft lies soft icons",0,0,1998,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+492,"Tom Williams - Interference",NONE,"Sonic Arts Network Concert 4",Interference,0,0,1998,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+493,"Ben Thigpen - Step, under",NONE,"Sonic Arts Network Concert 4","Step, under",0,0,1999,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+494,"Yves Daoust - Toccata",NONE,"Sonic Arts Network Concert 4",Toccata,0,0,1989,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+495,"Yves Daoust - L'Entrevue",NONE,"Sonic Arts Network Concert 4",L'Entrevue,0,0,1991,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+496,"Risto Holopanien - Yariasjonar over eie stille (Silence and Variations)",NONE,"Sonic Arts Network Concert 4","Yariasjonar over eie stille (Silence and Variations)",0,0,1997,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+497,"Peter Batchelor - Reel",NONE,"Sonic Arts Network Concert 4",Reel,0,0,1997,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+499,"Karlheinz Stockhausen - Mikrophonie I",NONE,"Happy 70th Birthday, Karlheinz Stockhausen","Mikrophonie I",0,0,1964,NULL,"Electric Spring 1998","St-Paul's Hall",NULL,NULL
+500,"Karlheinz Stockhausen - Refrain",NONE,"Happy 70th Birthday, Karlheinz Stockhausen",Refrain,0,0,1959,NULL,"Electric Spring 1998","St-Paul's Hall",NULL,NULL
+501,"Karlheinz Stockhausen - Kurzwellen",NONE,"Happy 70th Birthday, Karlheinz Stockhausen",Kurzwellen,0,0,1968,NULL,"Electric Spring 1998","St-Paul's Hall",NULL,NULL
+502,"Michel van der Aa - Auburn",UK,"Alan Thomas Performs",Auburn,0,0,1994,NULL,"Electric Spring 1998","St-Paul's Hall",NULL,NULL
+503,"Betsy Jolas - Episode Septième",UK,"Alan Thomas Performs","Episode Septième",0,0,1984,NULL,"Electric Spring 1998","St-Paul's Hall",NULL,NULL
+504,"Ian Willcock - The Onset of Turbulence",WORLD,"Alan Thomas Performs","The Onset of Turbulence",0,0,1988,NULL,"Electric Spring 1998","St-Paul's Hall",NULL,NULL
+505,"Mario Davidovsky - Synchronisms  No. 10",NONE,"Alan Thomas Performs","Synchronisms No. 10 ",0,0,1992,NULL,"Electric Spring 1998","St-Paul's Hall",NULL,NULL
+506,"Steve Reich - Electric Counterpoint ",NONE,"Alan Thomas Performs","Electric Counterpoint",0,0,1987,NULL,"Electric Spring 1998","St-Paul's Hall",NULL,NULL
+507,"Geoff Cox - Vita Interior",WORLD,"Composers of University of Huddersfield","Vita Interior",0,0,1998,NULL,"Electric Spring 1998","St-Paul's Hall",NULL,NULL
+508,"Lisa Reim - Dies lrae",WORLD,"Composers of University of Huddersfield","Dies lrae",0,0,1998,NULL,"Electric Spring 1998","St-Paul's Hall",NULL,NULL
+509,"Rob Scorah - Shimmerance of Ether",WORLD,"Composers of University of Huddersfield","Shimmerance of Ether",0,0,1998,NULL,"Electric Spring 1998","St-Paul's Hall",NULL,NULL
+510,"Margaret Lucy Wilkins - Fearful Apathy",WORLD,"Composers of University of Huddersfield","Fearful Apathy",0,0,1998,NULL,"Electric Spring 1998","St-Paul's Hall",NULL,NULL
+511,"Michael Clarke - Prism (Eight Part Invention #2)",WORLD,"Composers of University of Huddersfield","Prism (Eight Part Invention #2)",0,0,1998,NULL,"Electric Spring 1998","St-Paul's Hall",NULL,NULL
+512,"Stewart Worthy - Sonata for percussion and voice",WORLD,"Composers of University of Huddersfield","Sonata for percussion and voice",0,0,1998,NULL,"Electric Spring 1998","St-Paul's Hall",NULL,NULL
+513,"Mark Bromwich - Ghosts",WORLD,"Composers of University of Huddersfield",Ghosts,0,0,1995,NULL,"Electric Spring 1998","St-Paul's Hall",NULL,NULL
+514,"Christopher Fox - Insecurity",WORLD,"Composers of University of Huddersfield",Insecurity,0,0,1996,NULL,"Electric Spring 1998","St-Paul's Hall",NULL,NULL
+515,"Jo Thomas - Overture",NONE,"Concert 1",Overture,0,0,1997,NULL,"Electric Spring 1997","St-Paul's Hall",NULL,NULL
+516,"Mark Bokowiec - Zero in the Bone",NONE,"Concert 1","Zero in the Bone",0,0,1997,NULL,"Electric Spring 1997","St-Paul's Hall",NULL,NULL
+517,"Brian Jones - Element",NONE,"Concert 1",Element,0,0,1997,NULL,"Electric Spring 1997","St-Paul's Hall",NULL,NULL
+518,"John Cage - Variations IV",NONE,"Concert 1","Variations IV",0,0,1963,NULL,"Electric Spring 1997","St-Paul's Hall",NULL,NULL
+519,"Ruth Thomas - Doors 97",NONE,"Concert 1","Doors 97",0,0,1997,NULL,"Electric Spring 1997","St-Paul's Hall",NULL,NULL
+520,"Robert Duncan Scorah - The Wings of Isis",NONE,"Concert 1","The Wings of Isis",0,0,1997,NULL,"Electric Spring 1997","St-Paul's Hall",NULL,NULL
+521,"Luc Ferrari - Presque rien No 1",NONE,"Concert 1","Presque rien No 1, le lever du jour au bord de la mer",0,0,1970,NULL,"Electric Spring 1997","St-Paul's Hall",NULL,NULL
+522,"Joseph Hyde - GoldGlow",NONE,"Concert 1",GoldGlow,0,0,1997,NULL,"Electric Spring 1997","St-Paul's Hall",NULL,NULL
+523,"Vinko Globokar - Correspondances",NONE,"Concert 2",Correspondances,0,0,1997,NULL,"Electric Spring 1997","St-Paul's Hall",NULL,NULL
+524,"Michel Pascal - Liens",NONE,"Concert 2",Liens,0,0,1997,NULL,"Electric Spring 1997","St-Paul's Hall",NULL,NULL
+525,"Pascal Gobin - Nouvelles Etudes",WORLD,"Concert 2","Nouvelles Etudes",0,0,1997,NULL,"Electric Spring 1997","St-Paul's Hall",NULL,NULL
+526,"Michel Pascal - Between",NONE,"Concert 2",Between,0,0,1994,NULL,"Electric Spring 1997","St-Paul's Hall",NULL,NULL
+527,"Joseph Hyde - Vox Mecanix",NONE,"Concert 2","Vox Mecanix",0,0,1997,NULL,"Electric Spring 1997","St-Paul's Hall",NULL,NULL
+528,"Barrie Webb - Second Skin",NONE,"Concert 2","Second Skin",0,0,1988,NULL,"Electric Spring 1997","St-Paul's Hall",NULL,NULL
+529,"Kees Van Unen - Ab Rae",NONE,"Concert 2","Ab Rae",0,0,1996,NULL,"Electric Spring 1997","St-Paul's Hall",NULL,NULL
+530,"John Cage - Music for Carillon 3",NONE,"Concert 3","Music for Carillon 3",0,0,1954,NULL,"Electric Spring 1997","St-Paul's Hall",NULL,NULL
+531,"Stace Constantinou - Magic Lantern",NONE,"Concert 3","Magic Lantern",0,0,1997,NULL,"Electric Spring 1997","St-Paul's Hall",NULL,NULL
+532,"Christopher Fox - stone.wind.rain.sun",NONE,"Concert 3",stone.wind.rain.sun,0,0,1989,NULL,"Electric Spring 1997","St-Paul's Hall",NULL,NULL
+533,"Jo Thomas - African Violet",NONE,"Concert 3","African Violet",0,0,1997,NULL,"Electric Spring 1997","St-Paul's Hall",NULL,NULL
+534,"Luc Ferrari - unheimlich schön",NONE,"Concert 3","unheimlich schön",0,0,1971,NULL,"Electric Spring 1997","St-Paul's Hall",NULL,NULL
+535,"Michael Clarke - Tim(br)E",NONE,"Concert 3",Tim(br)E,0,0,1996,NULL,"Electric Spring 1997","St-Paul's Hall",NULL,NULL
+536,"Joseph Hyde - Songlines",NONE,"Concert 3",Songlines,0,0,1994,NULL,"Electric Spring 1997","St-Paul's Hall",NULL,NULL
+537,"Michael McNabb - Dreamsong",NONE,"Concert 1",Dreamsong,0,0,1978,NULL,"Electric Spring 1995","St-Paul's Hall",NULL,NULL
+538,"Kevin Parkin - Coming of Age",NONE,"Concert 1","Coming of Age",0,0,1995,NULL,"Electric Spring 1995","St-Paul's Hall",NULL,NULL
+539,"Katharine Norman - East London Scenes",NONE,"Concert 1","East London Scenes",0,0,1993,NULL,"Electric Spring 1995","St-Paul's Hall",NULL,NULL
+540,"Michael Jones - Charlotte, Her Book",NONE,"Concert 1","Charlotte, Her Book",0,0,1995,NULL,"Electric Spring 1995","St-Paul's Hall",NULL,NULL
+541,"Greg Fox - Overture: Electric Spring",NONE,"Concert 1","Overture: Electric Spring",0,0,1995,NULL,"Electric Spring 1995","St-Paul's Hall",NULL,NULL
+542,"Peter Manning - By-law 2531 , City of Vancouver ",WORLD,"Concert 1","By-law 2531 , City of Vancouver",0,0,1995,NULL,"Electric Spring 1995","St-Paul's Hall",NULL,NULL
+543,"Trevor Wishart - Tongues of Fire",NONE,"Concert 1","Tongues of Fire",0,0,1994,NULL,"Electric Spring 1995","St-Paul's Hall",NULL,NULL
+544,"Michael McNabb - The Lark Full Cloud",NONE,"Concert 2","The Lark Full Cloud",0,0,1989,NULL,"Electric Spring 1995","St-Paul's Hall",NULL,NULL
+545,"lan Dearden - Lilt",NONE,"Concert 2",Lilt,0,0,1987,NULL,"Electric Spring 1995","St-Paul's Hall",NULL,NULL
+546,"Michael McNabb - The Lark Full Cloud",NONE,"Concert 2","The Lark Full Cloud",0,0,1989,NULL,"Electric Spring 1995","St-Paul's Hall",NULL,NULL
+547,"Rodrigo Velloso - Multiple Reeds",NONE,"Concert 2","Multiple Reeds",0,0,1994,NULL,"Electric Spring 1995","St-Paul's Hall",NULL,NULL
+548,"Michael McNabb - The Lark Full Cloud",NONE,"Concert 2","The Lark Full Cloud",0,0,1989,NULL,"Electric Spring 1995","St-Paul's Hall",NULL,NULL
+549,"Rob Scorah- Farewell Temple Stars",NONE,"Concert 2","Farewell Temple Stars",0,0,1995,NULL,"Electric Spring 1995","St-Paul's Hall",NULL,NULL
+550,"Michael McNabb - The Lark Full Cloud",NONE,"Concert 2","The Lark Full Cloud",0,0,1989,NULL,"Electric Spring 1995","St-Paul's Hall",NULL,NULL
+551,"Steve Reich - Reed Phase",NONE,"Concert 2","Reed Phase",0,0,1966,NULL,"Electric Spring 1995","St-Paul's Hall",NULL,NULL
+552,"Edgard Varèse - Poème Electronique",NONE,"Concert 3","Poème Electronique",0,0,1958,NULL,"Electric Spring 1995","St-Paul's Hall",NULL,NULL
+553,"Michael McNabb - Love in the Asylum",NONE,"Concert 3","Love in the Asylum",0,0,1981,NULL,"Electric Spring 1995","St-Paul's Hall",NULL,NULL
+554,"Leigh Landy - Sonic Highway Exits Neglect Grammar",WORLD,"Concert 3","Sonic Highway Exits Neglect Grammar",0,0,1995,NULL,"Electric Spring 1995","St-Paul's Hall",NULL,NULL
+555,"Rob Scorah- Shards of Orisons",NONE,"Concert 3","Shards of Orisons",0,0,1995,NULL,"Electric Spring 1995","St-Paul's Hall",NULL,NULL
+556,"Edgard Varèse - Déserts",NONE,"Concert 3",Déserts,0,0,1954,NULL,"Electric Spring 1995","St-Paul's Hall",NULL,NULL
+558,"Adam Jansch - Vortex",NONE,"Barry Truax",Vortex,0,0,2006,NULL,"Week-End of Electronic Music","Phipps Concert Hall",NULL,NULL
+559,"Flora Könemann - 0 and/or 1 : How are you tune today ?",NONE,"Sound Installation - Flora Könemann","0 and/or 1 : How are you tune today ?",0,0,2016,NULL,"Electric Spring 2016",Atrium,NULL,NULL
+560,"Javier Alvarez - Overture",NONE,"Concert 1",Overture,0,0,1995,NULL,"Electric Spring 1996","St-Paul's Hall",NULL,NULL
+561,"James Burden - Dances with Whales",NONE,"Concert 1","Dances with Whales - The Whale's Cry",0,0,1996,NULL,"Electric Spring 1996","St-Paul's Hall",NULL,NULL
+562,"Jo Thomas - Poem Picasso",NONE,"Concert 1","Poem Picasso",0,0,1996,NULL,"Electric Spring 1996","St-Paul's Hall",NULL,NULL
+563,"Bruno Maderna - Notturno",NONE,"Concert 1",Notturno,0,0,1956,NULL,"Electric Spring 1996","St-Paul's Hall",NULL,NULL
+564,"Richard Barrett - Basalt",UK,"Concert 1",Basalt,0,0,1996,NULL,"Electric Spring 1996","St-Paul's Hall",NULL,NULL
+565,"Ruth Thomas - Ochre",NONE,"Concert 1",Ochre,0,0,1996,NULL,"Electric Spring 1996","St-Paul's Hall",NULL,NULL
+566,"John Warhurst - In Dreams",NONE,"Concert 1","In Dreams",0,0,1996,NULL,"Electric Spring 1996","St-Paul's Hall",NULL,NULL
+567,"Ian Willcock - Face",NONE,"Concert 1",Face,0,0,1989,NULL,"Electric Spring 1996","St-Paul's Hall",NULL,NULL
+568,"Javier Alvarez - Mambo à la Braque",NONE,"Concert 1","Mambo à la Braque",0,0,1991,NULL,"Electric Spring 1996","St-Paul's Hall",NULL,NULL
+569,"Robert Duncan Scorah - Shaya",NONE,"Concert 1",Shaya,0,0,1996,NULL,"Electric Spring 1996","St-Paul's Hall",NULL,NULL
+570,"Michael Jones - State of Mind",NONE,"Concert 1","State of Mind",0,0,1996,NULL,"Electric Spring 1996","St-Paul's Hall",NULL,NULL
+571,"Andrew Lewis - Ascent",NONE,"Concert 1",Ascent,0,0,1994,NULL,"Electric Spring 1996","St-Paul's Hall",NULL,NULL
+572,"Pascale Criton - Bifurcations",NONE,"Concert 2",Bifurcations,0,0,1995,NULL,"Electric Spring 1996","St-Paul's Hall",NULL,NULL
+573,"Richard Barrett - Ne Songe plus à fuir",NONE,"Concert 2","Ne Songe plus à fuir",0,0,1986,NULL,"Electric Spring 1996","St-Paul's Hall",NULL,NULL
+574,"Michael Clarke - Confluence",NONE,"Concert 2",Confluence,0,0,1995,NULL,"Electric Spring 1996","St-Paul's Hall",NULL,NULL
+575,"Jonathan Harvey - Tombeau de Messiaen",NONE,"Concert 2","Tombeau de Messiaen",0,0,1994,NULL,"Electric Spring 1996","St-Paul's Hall",NULL,NULL
+576,"Alaistair MacDonald - Brittle",NONE,"Concert 2",Brittle,0,0,1996,NULL,"Electric Spring 1996","St-Paul's Hall",NULL,NULL
+577,"Bruno Maderna - Musica su due Dimensioni (1952)",NONE,"Concert 3","Musica su due Dimensioni",0,0,1952,NULL,"Electric Spring 1996","St-Paul's Hall",NULL,NULL
+578,"Javier Alvarez - Mambo Vinko",NONE,"Concert 3","Mambo Vinko",0,0,1993,NULL,"Electric Spring 1996","St-Paul's Hall",NULL,NULL
+579,"Christopher Fox - stone. wind.rain.sun³",NONE,"Concert 3",stone.wind.rain.sun³,0,0,1989,NULL,"Electric Spring 1996","St-Paul's Hall",NULL,NULL
+580,"Richard Barrett - Tract Part I",NONE,"Concert 3","Tract Part 1",0,0,1989,NULL,"Electric Spring 1996","St-Paul's Hall",NULL,NULL
+581,"Bruno Maderna - Musica su due Dimensioni (1958)",NONE,"Concert 3","Musica su due Dimensioni",0,0,1952,NULL,"Electric Spring 1996","St-Paul's Hall",NULL,NULL
+583,"Flora Könemann - 0 and/or 1 : How are you tune today ?",NONE,"Sound Installation - Flora Könemann","0 and/or 1 : How are you tune today ?",0,0,2016,NULL,"Electric Spring 2016",Atrium,NULL,NULL
+584,"Jung In Jung - Locus",NONE,"Event 2 - Jung In Jung / Sébastien Roux",Locus,0,0,2015,NULL,"Electric Spring 2016","Phipps Concert Hall",NULL,NULL
+585,"Sébastien Roux - Inevitable Music",NONE,"Event 2 - Jung In Jung / Sébastien Roux","Inevitable Music",0,0,2015,NULL,"Electric Spring 2016","Phipps Concert Hall",NULL,NULL
+586,"Flora Könemann - 0 and/or 1 : How are you tune today ?",NONE,"Sound Installation - Flora Könemann","0 and/or 1 : How are you tune today ?",0,0,2016,NULL,"Electric Spring 2016",Atrium,NULL,NULL
+588,"Sean Ryan - Cinesensorium",NONE,"Event 3 - Sean Ryan / Bark!",Cinesensorium,0,0,2015,NULL,"Electric Spring 2016","Phipps Concert Hall",NULL,NULL
+589,"Sean Ryan - Cineblips",NONE,"Event 3 - Sean Ryan / Bark!",Cineblips,0,0,2015,NULL,"Electric Spring 2016","Phipps Concert Hall",NULL,NULL
+590,"Sean Ryan - Cineflow",NONE,"Event 3 - Sean Ryan / Bark!",Cineflow,0,0,2015,NULL,"Electric Spring 2016","Phipps Concert Hall",NULL,NULL
+593,"Flora Könemann - 0 and/or 1 : How are you tune today ?",NONE,"Sound Installation - Flora Könemann","0 and/or 1 : How are you tune today ?",0,0,2016,NULL,"Electric Spring 2016",Atrium,NULL,NULL
+594,"Diemo Schwarz - Playing the Sound Space",NONE,"Event 5 - Diemo Schwarz / Chris Mercer","Playing the Sound Space",0,0,2016,NULL,"Electric Spring 2016","Phipps Concert Hall",NULL,NULL
+595,"Chris Mercer - The Spring Box",NONE,"Event 5 - Diemo Schwarz / Chris Mercer","The Spring Box ",0,0,2012,NULL,"Electric Spring 2016","Phipps Concert Hall",NULL,NULL
+596,"Chris Mercer - Evolving Choruses",NONE,"Event 5 - Diemo Schwarz / Chris Mercer","Evolving Choruses",0,0,2010,NULL,"Electric Spring 2016","Phipps Concert Hall",NULL,NULL
+597,"Chris Mercer - The Syntax of Constellations",NONE,"Event 5 - Diemo Schwarz / Chris Mercer","The Syntax of Constellations",0,0,2015,NULL,"Electric Spring 2016","Phipps Concert Hall",NULL,NULL
+601,"Flora Könemann - 0 and/or 1 : How are you tune today ?",NONE,"Sound Installation - Flora Könemann","0 and/or 1 : How are you tune today ?",0,0,2016,NULL,"Electric Spring 2016",Atrium,NULL,NULL
+602,"Monty Adkins+Terri Hron - Lepidoptera",NONE,"Event 7 - Monty Adkins+Terri Hron / BEAST's Qawwali",Lepidoptera,0,0,2015,NULL,"Electric Spring 2016","Phipps Concert Hall",NULL,NULL
+604,"UBC Impart - Entropy",WORLD,"Event 1 - UBC Impart / Marcelle Deschênes",Entropy,0,0,2016,NULL,"Electric Spring 2016","Phipps Concert Hall",NULL,NULL
+605,"UBC Impart- Fuse",WORLD,"Event 1 - UBC Impart / Marcelle Deschênes",Fuse,0,0,2016,NULL,"Electric Spring 2016","Phipps Concert Hall",NULL,NULL
+606,"Marcelle Deschênes - Big Bang II",NONE,"Event 1 - UBC Impart / Marcelle Deschênes","Big Bang II",0,0,1987,NULL,"Electric Spring 2016","Phipps Concert Hall",NULL,NULL
+607,"Marcelle Deschênes - Indigo",NONE,"Event 1 - UBC Impart / Marcelle Deschênes",Indigo,0,0,2000,NULL,"Electric Spring 2016","Phipps Concert Hall",NULL,NULL
+608,"Marcelle Deschênes - Lux",NONE,"Event 1 - UBC Impart / Marcelle Deschênes",Lux,0,0,1985,NULL,"Electric Spring 2016","Phipps Concert Hall",NULL,NULL
+609,"Marcelle Deschênes - Big Bang III",NONE,"Event 1 - UBC Impart / Marcelle Deschênes","Big Bang III",0,0,1992,NULL,"Electric Spring 2016","Phipps Concert Hall",NULL,NULL
+610,"Stewart Worthy - Speaker Grid",WORLD,"Sound Installation - Stewart Worthy","Speaker Grid",0,0,2017,NULL,"Electric Spring 2017",Atrium,NULL,NULL
+611,"Tadej Droljc - Capillaries Capillaries",WORLD,"Concert - Tadej Droljc / Alex McLean","Capillaries Capillaries",0,0,2017,NULL,"Electric Spring 2017","Phipps Concert Hall",NULL,NULL
+615,"Stewart Worthy - Speaker Grid",NONE,"Sound Installation - Stewart Worthy","Speaker Grid",0,0,2017,NULL,"Electric Spring 2017",Atrium,NULL,NULL
+616,"Demelza Kooij + Lars Koens - Graminoids",NONE,"Concert - Demelza Kooij + Lars Koens / Geoff Cox + Keith Marley / Mark Lyken + Emma Dove ",Graminoids,0,0,2014,NULL,"Electric Spring 2017","Phipps Concert Hall",NULL,NULL
+617,"Geoff Cox + Keith Marley - Mill Study",WORLD,"Concert - Demelza Kooij + Lars Koens / Geoff Cox + Keith Marley / Mark Lyken + Emma Dove ","Mill Study",0,0,2017,NULL,"Electric Spring 2017","Phipps Concert Hall",NULL,NULL
+618,"Mark Lyken + Emma Dove - Mirror Lands",NONE,"Concert - Demelza Kooij + Lars Koens / Geoff Cox + Keith Marley / Mark Lyken + Emma Dove ","Mirror Lands",0,0,2014,NULL,"Electric Spring 2017","Phipps Concert Hall",NULL,NULL
+619,"Ana Berkenhoff - cormorant",NONE,"SDMF Screening / Practice Sessions",cormorant,0,0,2017,NULL,"Electric Spring 2017","Phipps Concert Hall",NULL,NULL
+620,"Mike Vernusky Salas - Dallas",NONE,"SDMF Screening / Practice Sessions",Dallas,0,0,2017,NULL,"Electric Spring 2017","Phipps Concert Hall",NULL,NULL
+621,"Radoslaw Rudnicki - Sonicules",NONE,"SDMF Screening / Practice Sessions",Sonicules,0,0,2017,NULL,"Electric Spring 2017","Phipps Concert Hall",NULL,NULL
+622,"Matt Green - Bat Hunting with Sean Meehan",NONE,"SDMF Screening / Practice Sessions","Bat Hunting with Sean Meehan",0,0,2017,NULL,"Electric Spring 2017","Phipps Concert Hall",NULL,NULL
+623,"Matt Green - Trout Fishing with Des and Christy",NONE,"SDMF Screening / Practice Sessions","Trout Fishing with Des and Christy",0,0,2017,NULL,"Electric Spring 2017","Phipps Concert Hall",NULL,NULL
+624,"Matt Green - Kingfisher Spotting with Brian Carruthers",NONE,"SDMF Screening / Practice Sessions","Kingfisher Spotting with Brian Carruthers",0,0,2017,NULL,"Electric Spring 2017","Phipps Concert Hall",NULL,NULL
+625,"James Bulley - Progress Music I",NONE,"SDMF Screening / Practice Sessions","Progress Music I",0,0,2017,NULL,"Electric Spring 2017","Phipps Concert Hall",NULL,NULL
+626,"Simon Connor - Action Space",NONE,"SDMF Screening / Practice Sessions","Action Space",0,0,2015,NULL,"Electric Spring 2017","Phipps Concert Hall",NULL,NULL
+627,"Andrew Kötting - EDITH",NONE,"Keynote Talk - Andrew Kötting",EDITH,0,0,2017,NULL,"Electric Spring 2017","Phipps Concert Hall",NULL,NULL
+628,"Stewart Worthy - Speaker Grid",NONE,"Sound Installation - Stewart Worthy","Speaker Grid",0,0,2017,NULL,"Electric Spring 2017",Atrium,NULL,NULL
+629,"Frédéric Dufeu - Happy new year and where are you?",WORLD,"Concert - Frédéric Dufeu / Beatriz Ferreyra","Happy new year and where are you? ",0,0,2017,NULL,"Electric Spring 2017","Phipps Concert Hall",NULL,NULL
+630,"Beatriz Ferreyra - Rio de los pájaros azules",NONE,"Concert - Frédéric Dufeu / Beatriz Ferreyra","Río de los pájaros azules",0,0,1999,NULL,"Electric Spring 2017","Phipps Concert Hall",NULL,NULL
+631,"Beatriz Ferreyra - Echos",NONE,"Concert - Frédéric Dufeu / Beatriz Ferreyra",Echos,0,0,1978,NULL,"Electric Spring 2017","Phipps Concert Hall",NULL,NULL
+632,"Beatriz Ferreyra - Senderos de luz y sombras",UK,"Concert - Frédéric Dufeu / Beatriz Ferreyra","Senderos de luz y sombras ",0,0,2017,NULL,"Electric Spring 2017","Phipps Concert Hall",NULL,NULL
+633,"Stewart Worthy - Speaker Grid",NONE,"Sound Installation - Stewart Worthy","Speaker Grid",0,0,2017,NULL,"Electric Spring 2017",Atrium,NULL,NULL
+634,"Solomiya Moroz - Simulacra Studies",WORLD,"Concert - Solomiya Moroz / Dave Smith","Simulacra Studies",0,0,2017,NULL,"Electric Spring 2017","Phipps Concert Hall",NULL,NULL
+637,"Stewart Worthy - Speaker Grid",NONE,"Sound Installation - Stewart Worthy","Speaker Grid",0,0,2017,NULL,"Electric Spring 2017",Atrium,NULL,NULL
+638,"Elías Merino - Synthesis of located-unlocated models",WORLD,"Concert - Elías Merino / Richard Scott","Synthesis of located-unlocated models ",0,0,2017,NULL,"Electric Spring 2017","Phipps Concert Hall",NULL,NULL
+641,"Poulomi Desai - stories in saris",NONE,"Installation Launch - Poulomi Desai","stories in saris",0,0,2018,NULL,"Electric Spring 2018",SPIRAL,NULL,NULL
+642,"Poulomi Desai - Memento mori",NONE,"Installation Launch - Poulomi Desai","Memento mori",0,0,2018,NULL,"Electric Spring 2018",SPIRAL,NULL,NULL
+643,"Poulomi Desai - Unmuted",NONE,"Installation Launch - Poulomi Desai",Unmuted,0,0,2018,NULL,"Electric Spring 2018",SPIRAL,NULL,NULL
+644,"Poulomi Desai - Made in Huddersfield",NONE,"Installation Launch - Poulomi Desai","Made in Huddersfield",0,0,2018,NULL,"Electric Spring 2018",SPIRAL,NULL,NULL
+645,"Aaron Cassidy - I, for example, ... ",UK,"Concert - Aaron Cassidy / Philip Thomas & Colin Frank","I, for example, ...",0,0,2017,NULL,"Electric Spring 2018","Phipps Concert Hall",NULL,NULL
+646,"Thomas Meadowcroft - Plain Moving Landfill",NONE,"Concert - Aaron Cassidy / Philip Thomas & Colin Frank","Plain Moving Landfill",0,0,2011,NULL,"Electric Spring 2018","Phipps Concert Hall",NULL,NULL
+647,"Rozalie Hirs - Meditations",UK,"Concert - Aaron Cassidy / Philip Thomas & Colin Frank",Meditations,0,0,2017,NULL,"Electric Spring 2018","Phipps Concert Hall",NULL,NULL
+648,"Luc Döbereiner - Metallurgie",UK,"Concert - Aaron Cassidy / Philip Thomas & Colin Frank",Metallurgie,0,0,2017,NULL,"Electric Spring 2018","Phipps Concert Hall",NULL,NULL
+650,"Poulomi Desai - stories in saris",NONE,"Installation - Poulomi Desai","stories in saris",0,0,2018,NULL,"Electric Spring 2018",SPIRAL,NULL,NULL
+651,"Poulomi Desai - Memento mori",NONE,"Installation - Poulomi Desai","Memento mori",0,0,2018,NULL,"Electric Spring 2018",SPIRAL,NULL,NULL
+652,"Poulomi Desai - Unmuted",NONE,"Installation - Poulomi Desai",Unmuted,0,0,2018,NULL,"Electric Spring 2018",SPIRAL,NULL,NULL
+653,"Poulomi Desai - Made in Huddersfield",NONE,"Installation - Poulomi Desai","Made in Huddersfield",0,0,2018,NULL,"Electric Spring 2018",SPIRAL,NULL,NULL
+654,"Kathryn Gray - Impress Maude, part 1",NONE,"Concert - Kathryn Gray / Sam Gillies / Freida Abtan","Impress Maude, part 1",0,0,2017,NULL,"Electric Spring 2018","Phipps Concert Hall",NULL,NULL
+655,"Sam Gillies - Infinitely gentle, infinitely suffering ",WORLD,"Concert - Kathryn Gray / Sam Gillies / Freida Abtan","Infinitely gentle, infinitely suffering",0,0,2018,NULL,"Electric Spring 2018","Phipps Concert Hall",NULL,NULL
+656,"Freida Abtan - the hands of the dancer ",NONE,"Concert - Kathryn Gray / Sam Gillies / Freida Abtan","the hands of the dancer",0,0,2008,NULL,"Electric Spring 2018","Phipps Concert Hall",NULL,NULL
+657,"Freida Abtan - Flight of Birds (remix)",NONE,"Concert - Kathryn Gray / Sam Gillies / Freida Abtan","Flight of Birds (remix)",0,0,2010,NULL,"Electric Spring 2018","Phipps Concert Hall",NULL,NULL
+658,"Owen Green - Neither the Time nor the Energy",NONE,"Concert - Owen Green / Rodrigo Constanzo + Brian Crabtree + Angela Guyton","Neither the Time nor the Energy",0,0,2015,NULL,"Electric Spring 2018","Phipps Concert Hall",NULL,NULL
+659,"Rodrigo Constanzo + Brian Crabtree + Angela Guyton - Good at continuing a thing I’ve already started but not at starting a thing I’m scared of",NONE,"Concert - Owen Green / Rodrigo Constanzo + Brian Crabtree + Angela Guyton","Good at continuing a thing I’ve already started but not at starting a thing I’m scared of",0,0,2018,NULL,"Electric Spring 2018","Phipps Concert Hall",NULL,NULL
+660,"Poulomi Desai - stories in saris",NONE,"Installation - Poulomi Desai","stories in saris",0,0,2018,NULL,"Electric Spring 2018",SPIRAL,NULL,NULL
+661,"Poulomi Desai - Memento mori",NONE,"Installation - Poulomi Desai","Memento mori",0,0,2018,NULL,"Electric Spring 2018",SPIRAL,NULL,NULL
+662,"Poulomi Desai - Unmuted",NONE,"Installation - Poulomi Desai",Unmuted,0,0,2018,NULL,"Electric Spring 2018",SPIRAL,NULL,NULL
+663,"Poulomi Desai - Made in Huddersfield",NONE,"Installation - Poulomi Desai","Made in Huddersfield",0,0,2018,NULL,"Electric Spring 2018",SPIRAL,NULL,NULL
+665,"Poulomi Desai - stories in saris",NONE,"Installation - Poulomi Desai","stories in saris",0,0,2018,NULL,"Electric Spring 2018",SPIRAL,NULL,NULL
+666,"Poulomi Desai - Memento mori",NONE,"Installation - Poulomi Desai","Memento mori",0,0,2018,NULL,"Electric Spring 2018",SPIRAL,NULL,NULL
+667,"Poulomi Desai - Unmuted",NONE,"Installation - Poulomi Desai",Unmuted,0,0,2018,NULL,"Electric Spring 2018",SPIRAL,NULL,NULL
+668,"Poulomi Desai - Made in Huddersfield",NONE,"Installation - Poulomi Desai","Made in Huddersfield",0,0,2018,NULL,"Electric Spring 2018",SPIRAL,NULL,NULL
+669,"Rupert Till - Reverie Dub",NONE,"Concert - Ambient@40","Reverie Dub",0,0,2016,NULL,"Electric Spring 2018","Phipps Concert Hall",NULL,NULL
+670,"Rupert Till - Viking Bagpipe Dub",NONE,"Concert - Ambient@40","Viking Bagpipe Dub",0,0,2016,NULL,"Electric Spring 2018","Phipps Concert Hall",NULL,NULL
+671,"Kristina Wolfe - Speaking with Stones",WORLD,"Concert - Ambient@40","Speaking with Stones",0,0,2018,NULL,"Electric Spring 2018","Phipps Concert Hall",NULL,NULL
+675,"Simon Cummings - February 24, 2013",WORLD,"Concert - Ambient@40","February 24, 2013",0,0,2018,NULL,"Electric Spring 2018","Phipps Concert Hall",NULL,NULL
+674,"Simon Cummings - February 12, 2013",WORLD,"Concert - Ambient@40","February 12, 2013",0,0,2018,NULL,"Electric Spring 2018","Phipps Concert Hall",NULL,NULL
+676,"Rob Mackay - Flight of the Monarchs",NONE,"Concert - Ambient@40","Flight of the Monarchs",0,0,2016,NULL,"Electric Spring 2018","Phipps Concert Hall",NULL,NULL
+677,"Tim Howle + Nick Cope - Sarva Mangalam! ",NONE,"Concert - Ambient@40","Sarva Mangalam!",0,0,2018,NULL,"Electric Spring 2018","Phipps Concert Hall",NULL,NULL
+678,"Bartosz Szafranski + Agata Kubiak - Six Spiders",NONE,"Concert - Ambient@40","Six Spiders",0,0,2017,NULL,"Electric Spring 2018","Phipps Concert Hall",NULL,NULL
+27,"Ultre - Live set",NONE,"Laptop - Ultre",NULL,NULL,NULL,NULL,NULL,"GEMDays 2008",Quayside,NULL,NULL
+26,"Nicolas d'Alessandro/Sylvain Pohu - Improvised duet",NONE,"Laptop - Ultre",NULL,NULL,NULL,NULL,NULL,"GEMDays 2008",Quayside,NULL,NULL
+35,"Helena Gough - Solo",NONE,"fragile.flicker.fragment - Helena Gough",NULL,NULL,NULL,NULL,NULL,"GEMDays 2009","Phipps Concert Hall",NULL,NULL
+36,Helo,NONE,"fragile.flicker.fragment - Helena Gough",NULL,NULL,NULL,NULL,NULL,"GEMDays 2009","Phipps Concert Hall",NULL,NULL
+43,"Lawrence Casserley + Jeffrey Morgan ",NONE,"Expanded Sounds - Casserley + Morgan",NULL,NULL,NULL,NULL,NULL,"GEMDays 2009","Phipps Concert Hall",NULL,NULL
+46,"Derrick Archer - Atlstfin",NONE,"Derrick Archer: sound installation - Atlstfin",NULL,NULL,NULL,NULL,NULL,"GEMDays 2009",Atrium,NULL,NULL
+59,"Anne La Berge + Sam Pluta - Live set",NONE,"Live Electronics - Martin Howes / Sam Pluta + Anne Laberge",NULL,NULL,NULL,NULL,NULL,"GEMDays 2011","Phipps Concert Hall",NULL,NULL
+60,"Martin Howse - Live set",NONE,"Live Electronics - Martin Howes / Sam Pluta + Anne Laberge",NULL,NULL,NULL,NULL,NULL,"GEMDays 2011","Phipps Concert Hall",NULL,NULL
+71,"Derek Holzer and research students- Group Live Performance",NONE,"Circuit Bending - Derek Holzer",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2012","Phipps Concert Hall",NULL,NULL
+72,"Derek Holzer - Live Performance",NONE,"Circuit Bending - Derek Holzer",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2012","Phipps Concert Hall",NULL,NULL
+79,"@c - Live set from OVO",NONE,"Laptop Performance - @c",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2012","Phipps Concert Hall",NULL,NULL
+81,"Peter Höslcher + Michael Rüsenberg  - ...the cragged version 3.5",NONE,"Ambiant Videomusic - Peter Höslcher + Michael Rüsenberg",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2012","Phipps Concert Hall",NULL,NULL
+112,"Jonty Harrison - Klang ",NONE,"Acousmaticlassics - Lunchtime Concert",NULL,NULL,NULL,NULL,NULL,"GEMDays 2.2","St-Paul's Hall",NULL,NULL
+167,"Pierre Alexandre Tremblay - New Work",NONE,"Silent Noisy Music - Wilhem Latchoumia / Crank",NULL,NULL,NULL,NULL,NULL,"GEMDays @ HCMF 2008","Recital Hall",NULL,NULL
+170,"Paul Whitty - New Work",NONE,"Silent Noisy Music - Wilhem Latchoumia / Crank",NULL,NULL,NULL,NULL,NULL,"GEMDays @ HCMF 2008","Recital Hall",NULL,NULL
+198,"John Wall - Solo",NONE,"Electronic Improvisations - John Wall / Franck Vigroux",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2013","Phipps Concert Hall",NULL,NULL
+199,"Franck Vigroux - Solo",NONE,"Electronic Improvisations - John Wall / Franck Vigroux",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2013","Phipps Concert Hall",NULL,NULL
+209,"Benjamin Thigpen - Rust Under the Hood",NONE,"Max/MSP Powerusers Symposium 2013",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2013",CAMG/01,NULL,NULL
+210,"Rui Penha - Spatium, a Set of Free, Open Source and Modular Software Tools for Sound Spatialization",NONE,"Max/MSP Powerusers Symposium 2013",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2013",CAMG/01,NULL,NULL
+211,"Thomas Resch - note~ for Max - A tool for Media Arts & Music",NONE,"Max/MSP Powerusers Symposium 2013",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2013",CAMG/01,NULL,NULL
+212,"Olivier Pasquet - Rhythmical Structures using Rhythmic Tree Representation",NONE,"Max/MSP Powerusers Symposium 2013",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2013",CAMG/01,NULL,NULL
+235,"Wormhole - Live set",NONE,"Portrait Concert - Wormhole",NULL,NULL,NULL,NULL,NULL,"GEMDays 2010","Phipps Concert Hall",NULL,NULL
+236,"Phil Archer - Live set",NONE,"Live Electronics - Phil Archer / Rodrigo Constanzo",NULL,NULL,NULL,NULL,NULL,"GEMDays 2010","Phipps Concert Hall",NULL,NULL
+237,"Rodrigo Constanzo - Live set",NONE,"Live Electronics - Phil Archer / Rodrigo Constanzo",NULL,NULL,NULL,NULL,NULL,"GEMDays 2010","Phipps Concert Hall",NULL,NULL
+242,"Monty Adkins + Pierre Alexandre Tremblay - Improvisation",NONE,"Portrait Concert - Jamie Fawcus / Paulina Sundin",NULL,NULL,NULL,NULL,NULL,"GEMDays 2010","Phipps Concert Hall",NULL,NULL
+265,"l_a_u_t - Free Improvisation",NONE,"Saxophone and Electronics - l_a_u_t",NULL,NULL,NULL,NULL,NULL,GEM-FEST,"Recital Hall",NULL,NULL
+296,"Group Performance with Sato + Toop",NONE,"Concert 1 - Minoru Sato / David Toop",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2014","Phipps Concert Hall",NULL,NULL
+297,"Minoru Sato - Solo",NONE,"Concert 1 - Minoru Sato / David Toop",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2014","Phipps Concert Hall",NULL,NULL
+298,"David Toop - Solo",NONE,"Concert 1 - Minoru Sato / David Toop",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2014","Phipps Concert Hall",NULL,NULL
+300,"Hanna Hartman - Mezcal no.3",NONE,"Concert 2 - Sylvain Pohu / Hanna Hartman",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2014","Phipps Concert Hall",NULL,NULL
+303,"Ambrose Field - Solo",NONE,"Concert 3 - Ambrose Field",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2014","Phipps Concert Hall",NULL,NULL
+305,"Phil Maguire - Solo",NONE,"Concert 4 - Autistici",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2014","Phipps Concert Hall",NULL,NULL
+307,"Autistici – Live set",NONE,"Concert 4 - Autistici",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2014","Phipps Concert Hall",NULL,NULL
+309,"SOUNDkitchen - Live set",NONE,"Concert 5 - SOUNDkitchen / Patricia Alessandrini",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2014","Phipps Concert Hall",NULL,NULL
+328,"Isnaj Dui - Euplexia+ (live set)",NONE,"Event 2 - Ben Potts / Isnaj Dui",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2015","Phipps Concert Hall",NULL,NULL
+331,"Kasper T. Toeplitz",NONE,"MAX Poweruser Symposium",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2015",CAMG/01,NULL,NULL
+332,"Hans Leeuw",NONE,"MAX Poweruser Symposium",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2015",CAMG/01,NULL,NULL
+333,"Peter Dowling",NONE,"MAX Poweruser Symposium",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2015",CAMG/01,NULL,NULL
+334,"Robert Henke",NONE,"MAX Poweruser Symposium",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2015",CAMG/01,NULL,NULL
+347,Yaxu,NONE,"Event 4 - Algorave",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2015",Atrium,NULL,NULL
+348,"Norah Lorway",NONE,"Event 4 - Algorave",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2015",Atrium,NULL,NULL
+349,"Shelly Knots",NONE,"Event 4 - Algorave",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2015",Atrium,NULL,NULL
+350,"Sick Lincoln",NONE,"Event 4 - Algorave",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2015",Atrium,NULL,NULL
+373,"Broken Consort - Live set",NONE,"Broken Consort",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2004","St-Paul's Hall",NULL,NULL
+383,"Broken Consort - Live set",NONE,"Broken Consort",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2004","St-Paul's Hall",NULL,NULL
+449,"Simon Dumpleton - New Work",NONE,Polyphony,NULL,NULL,NULL,NULL,NULL,"Electric Spring 1999","St-Paul's Hall",NULL,NULL
+582,"Furt - Irregular",NONE,"Concert 3",NULL,NULL,NULL,NULL,NULL,"Electric Spring 1996","St-Paul's Hall",NULL,NULL
+591,"Bark! - Improvised set",NONE,"Event 3 - Sean Ryan / Bark!",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2016","Phipps Concert Hall",NULL,NULL
+592,"Flora Könemann - Late Night Performance",NONE,"Event 4 - Late Night Performance",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2016",Atrium,NULL,NULL
+598,"Music for the Electronically Jilted Generation",NONE,"Event 6 - Late Night Performance",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2016","The Warehouse",NULL,NULL
+599,"13:30 Pixelmechanic",NONE,"Modular Meets",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2016",Atrium,NULL,NULL
+600,"15:00 BlueWolfse7en",NONE,"Modular Meets",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2016",Atrium,NULL,NULL
+603,"Qawwali Research Unit - I will go with Yogi",NONE,"Event 7 - Monty Adkins+Terri Hron / BEAST's Qawwali",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2016","Phipps Concert Hall",NULL,NULL
+612,"Alex McLean - Improvisation",WORLD,"Concert - Tadej Droljc / Alex McLean",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2017","Phipps Concert Hall",NULL,NULL
+635,"Dave Smith - Improvisation",WORLD,"Concert - Solomiya Moroz / Dave Smith",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2017","Phipps Concert Hall",NULL,NULL
+636,"Libat - Abiogenesis Begins with a Single Step on the Road to Nowhere",WORLD,"Late Night Concert",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2017",Atrium,NULL,NULL
+639,"Richard Scott - Sines, Squares, Circles",WORLD,"Concert - Elías Merino / Richard Scott",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2017","Phipps Concert Hall",NULL,NULL
+679,"Sebastien Lavoie Performs",NONE,"Late Night Concert - Sebastien Lavoie",NULL,NULL,NULL,NULL,NULL,"Electric Spring 2018","Phipps Concert Hall",NULL,NULL

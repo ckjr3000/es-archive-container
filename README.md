@@ -66,36 +66,37 @@ The front matter is everything between the two dashed lines at the top of the pa
 
 The website is currently completely unstyled. To apply css follow these steps:
 
-    1. Create CSS file(s)
+1.  Create CSS file(s)
 
-        - inside a dedicated folder in 'src' create your required .css files
+- inside a dedicated folder in 'src' create your required .css files
 
-    2. Add pass through
+2.  Add pass through
 
-        - in .eleventy.js, inside the module.exports function, add a pass through copy directed to the location of the .css files
-        - the method looks in the src folder first, so just the css folder name is necessary
+- in .eleventy.js, inside the module.exports function, add a pass through copy directed to the location of the .css files
+- the method looks in the src folder first, so just the css folder name is necessary
 
-            module.exports = function(eleventyConfig) {
+      module.exports = function(eleventyConfig) {
 
-                eleventyConfig.addCollection("searchIndex", function(collectionApi) {
-                return collectionApi.getAll();
-                });
+            eleventyConfig.addCollection("searchIndex", function(collectionApi) {
+            return collectionApi.getAll();
+            });
 
-                eleventyConfig.addPassthroughCopy('css');
+            eleventyConfig.addPassthroughCopy('css');
 
-                return {
-                dir: {
-                    input: "src",
-                    output: "_site"
-                }
-                }
-            };
+            return {
+            dir: {
+                input: "src",
+                output: "_site"
+            }
+            }
 
-    3. Import
+      };
 
-        - Go to the global layout file
-            - src/_includes/layout.njk
-        - Link all css files with a link tag inside the document head, this will apply styles globally across the site
+3.  Import
+
+- Go to the global layout file
+  - src/\_includes/layout.njk
+- Link all css files with a link tag inside the document head, this will apply styles globally across the site
 
             <head>
                 <meta charset="UTF-8">
@@ -108,10 +109,10 @@ The website is currently completely unstyled. To apply css follow these steps:
 You will probably want to add ids/classes to the site HTML for styling purposes.
 The HTML in this project is broken up 4 njk files:
 
-    - src/_includes/layout.njk contains the head of every page, plus a navigation header, and a <main></main> that wraps around all other content.
-    - src/_includes/post.njk describes the layout of individual posts
-    - src/index.njk describes the layout of the home page
-    - src/search.njk controls the layout of the search page
+- src/\_includes/layout.njk contains the head of every page, plus a navigation header, and a <main></main> that wraps around all other content.
+- src/\_includes/post.njk describes the layout of individual posts
+- src/index.njk describes the layout of the home page
+- src/search.njk controls the layout of the search page
 
 ### Deployment
 

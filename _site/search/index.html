@@ -21,36 +21,30 @@
 <ul id="results"></ul>
 
 <script>
-    // Function to fetch search index and search for the query
     async function fetchAndSearch(query) {
         try {
-            // Fetch the search index data
             const response = await fetch('/searchIndex.json');
             const data = await response.json();
             
-            // Filter results where the performance field contains the query string
             const results = data.filter(item => 
                 item.performance.toLowerCase().includes(query.toLowerCase())
             );
 
-            // Display results
             displayResults(results);
         } catch (error) {
             console.error('Error fetching search index:', error);
         }
     }
 
-    // Function to display search results in the UI
     function displayResults(results) {
         const resultsList = document.getElementById('results');
-        resultsList.innerHTML = ''; // Clear previous results
+        resultsList.innerHTML = '';
 
         if (results.length === 0) {
             resultsList.innerHTML = '<li>No results found</li>';
             return;
         }
 
-        // Create list items for each result
         results.forEach(item => {
             const listItem = document.createElement('li');
             listItem.innerHTML = `<a href="${item.url}">${item.performance}</a>`;
@@ -58,13 +52,11 @@
         });
     }
 
-    // Event listener for input change
     document.getElementById('search-query').addEventListener('input', function() {
         const query = this.value;
         if (query.length > 0) {
             fetchAndSearch(query);
         } else {
-            // Clear results if input is empty
             document.getElementById('results').innerHTML = '';
         }
     });

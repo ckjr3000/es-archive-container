@@ -1,7 +1,7 @@
 {
   "name": "es-archive-container",
   "version": "1.0.0",
-  "description": "",
+  "description": "This website was created to contain the archive of [Huddersfield University's Electric Spring Festival]('https://electricspring.co.uk/').",
   "main": ".eleventy.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,5 +9,8 @@
     "build": "npx eleventy && node generateSearchIndex.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
 }

@@ -3,7 +3,6 @@ layout: layout.njk
 ---
 
 {# pull unique 'season' property from front matter of each post #}
-{# DATA CLEANUP TASK: Name seasons consistenly starting with the year they happened #}
 {% set uniqueSeasons = [] %}
 {% for post in collections.posts %}
   {% set season = post.data.season %}
@@ -14,7 +13,7 @@ layout: layout.njk
 {% endfor %}
 
 <ul>
-  {% for season in uniqueSeasons %}
+  {% for season in uniqueSeasons.sort() %}
     <li><h2>{{ season }}</h2></li>
     {% for post in collections.posts %}
       <ul>
